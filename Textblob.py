@@ -2,16 +2,16 @@ import pandas as pd
 from textblob import TextBlob
 
 # Initializes a DataFrame out of the csv file
-df = pd.read_csv("new_Restaurant_Reviews.csv")
+df = pd.read_csv("xxx.csv")
 
 # Iterates through the Column and applies Textblob.sentiment
-def sentiment_calc(Review):
+def sentiment_calc(columnname):
     try:
-        return TextBlob(Review).sentiment
+        return TextBlob(columnname).sentiment
     except:
         return None
 
-df['Sentiment'] = df['Review'].apply(sentiment_calc)
+df['Sentiment'] = df['columnname'].apply(sentiment_calc)
 
 # Splits the Sentiment Column into Polarity and Subjectivity
 sentiment_series = df['Sentiment'].tolist()
