@@ -11,7 +11,7 @@ def sentiment_calc(columnname):
     except:
         return None
 
-df['Result'] = df['columnname'].apply(Result_calc)
+df['Result'] = df['columnname'].apply(sentiment_calc)
 
 # Splits the Result Column into Polarity and Subjectivity
 sentiment_series = df['Result'].tolist()
