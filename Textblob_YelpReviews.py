@@ -23,4 +23,4 @@ df3 = pd.merge(df, df2, left_index=True, right_index=True)
 # deletes the column Result, so that there's no redundant data
 del df3['Result']
 # save the new Dataset into a csv file
-df3.to_csv('Analysed_Yelp_Review.csv', index=False)
+df3.to_csv('Textblob_Analysed_Yelp_Review.csv', index=False)
