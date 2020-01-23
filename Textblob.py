@@ -1,7 +1,18 @@
+import pandas as pd
+from textblob import TextBlob
+
+df = pd.read_csv("Restaurant_Review_1001.csv", sep = ',')
+
+print(df)
+
+
+"""
+Test with csv (only works with iterating rows as of now)
+
 import csv
 from textblob import TextBlob
 
-infile = 'Restaurant_Review_1001.csv'
+infile = 'xxx.csv'
 
 with open(infile, 'r') as csvfile:
         rows = csv.reader(csvfile)
@@ -10,3 +21,4 @@ with open(infile, 'r') as csvfile:
             blob = TextBlob(sentence)
             print(sentence)
             print(blob.sentiment)
+"""
