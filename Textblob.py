@@ -1,12 +1,12 @@
 import csv
-from textblob import TextBlob as tb
+from textblob import TextBlob
 
-infile = 'xxx.csv'
+infile = 'Restaurant_Review_1001.csv'
 
 with open(infile, 'r') as csvfile:
-        columns = csv.reader(csvfile)
-        for column in columns:
-            sentence = column[2]
+        rows = csv.reader(csvfile)
+        for row in rows:
+            sentence = row[0], column[0]
             blob = TextBlob(sentence)
             print(sentence)
             print(blob.sentiment)
