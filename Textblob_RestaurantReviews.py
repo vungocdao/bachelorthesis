@@ -2,7 +2,7 @@ import pandas as pd
 from textblob import TextBlob
 
 # Initializes a DataFrame out of the csv file
-df = pd.read_csv("new_Restaurant_Reviews.csv")
+df = pd.read_csv("Restaurant_Reviews.csv")
 
 # Iterates through the Column and applies Textblob.sentiment
 def sentiment_calc(Review):
