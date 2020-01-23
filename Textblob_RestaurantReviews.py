@@ -19,9 +19,8 @@ columns = ['Polarity', 'Subjectivity']
 df2 = pd.DataFrame(sentiment_series, columns=columns, index=df.index)
 
 # Combine both DataFrames into 1
-
 df3 = pd.merge(df, df2, left_index=True, right_index=True)
-
+# deletes the column Sentiment, so that there's no redundant data
 del df3['Sentiment']
-
+# save the new Dataset into a csv file
 df3.to_csv('Analysed_Restaurant_Review.csv', index=False)
