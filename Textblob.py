@@ -1,21 +1,10 @@
 import pandas as pd
 from textblob import TextBlob
 
-# Initializes a DataFrame out of the csv file
-df = pd.read_csv("xxx.csv")
-
-# Iterates through the Column and applies Textblob.sentiment
-def sentiment_calc(columnname):
-    try:
-        return TextBlob(columnname).sentiment
-    except:
-        return None
-
-df['Result'] = df['columnname'].apply(sentiment_calc)
-
+"""
 # Splits the Result Column into Polarity and Subjectivity
 sentiment_series = df['Result'].tolist()
-columns = ['Polarity', 'Subjectivity']
+columns = ['Polarity_result', 'Subjectivity_result']
 df2 = pd.DataFrame(sentiment_series, columns=columns, index=df.index)
 
 # Combine both DataFrames into 1
@@ -24,3 +13,44 @@ df3 = pd.merge(df, df2, left_index=True, right_index=True)
 del df3['Result']
 # save the new Dataset into a csv file
 df3.to_csv('Textblob_Analysed_Domain_Review.csv', index=False)
+"""
+
+# Variables with name of csv file
+ds1 = "Amazon_Reviews.csv"
+ds2 = "Amazon_Reviews_sample.csv"
+ds3 = "IMDB_Reviews.csv"
+ds4 = "IMDB_Reviews_sample.csv"
+ds5 = "Restaurant_Reviews.csv"
+ds6 = "Restaurant_Reviews_sample.csv"
+ds7 = "Uber_Ride_Reviews.csv"
+ds8 = "Uber_Ride_Reviews_sample.csv"
+ds9 = "Yelp_Reviews.csv"
+ds10 = "Yelp_Reviews_sample.csv"
+
+# Iterates through the Column and applies paralleldots.sentiment
+def sentiment_calc(Review):
+    try:
+        return TextBlob(Review).sentiment
+    except:
+        return None
+
+# Initializes DataFrame, Applies API and creates 'Result' column, saves into new File
+def apply_analysis(ds):
+    df = pd.read_csv(ds)
+    df['Result'] = df['Review'].apply(sentiment_calc)
+    # Splits the Result Column into Polarity and Subjectivity
+    sentiment_series = df['Result'].tolist()
+    columns = ['Polarity_result', 'Subjectivity_result']
+    df2 = pd.DataFrame(sentiment_series, columns=columns, index=df.index)
+    # Combine both DataFrames into 1
+    df3 = pd.merge(df, df2, left_index=True, right_index=True)
+    # deletes the column Result, so that there's no redundant data
+    del df3['Result']
+    # save the new Dataset into a csv file
+    df3.to_csv('Textblob_Analysed_' + ds, index=False)
+
+apply_analysis(ds2)
+apply_analysis(ds4)
+apply_analysis(ds6)
+apply_analysis(ds8)
+apply_analysis(ds10)
