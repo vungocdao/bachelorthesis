@@ -1,0 +1,6 @@
+Polarity,Review,Result
+1,Wow... Loved this place.,"{'sentiment': {'negative': 0.025, 'neutral': 0.251, 'positive': 0.723}}"
+-1,Crust is not good.,"{'sentiment': {'negative': 0.926, 'neutral': 0.069, 'positive': 0.005}}"
+-1,Not tasty and the texture was just nasty.,"{'sentiment': {'negative': 0.953, 'neutral': 0.045, 'positive': 0.002}}"
+1,Stopped by during the late May bank holiday off Rick Steve recommendation and loved it.,"{'sentiment': {'negative': 0.091, 'neutral': 0.326, 'positive': 0.583}}"
+1,The selection on the menu was great and so were the prices.,"{'sentiment': {'negative': 0.373, 'neutral': 0.269, 'positive': 0.358}}"
