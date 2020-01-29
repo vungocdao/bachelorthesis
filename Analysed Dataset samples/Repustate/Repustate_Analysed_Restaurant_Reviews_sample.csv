@@ -1,0 +1,6 @@
+Polarity,Review,Result
+1,Wow... Loved this place.,"{'score': 0.975, 'status': 'OK'}"
+-1,Crust is not good.,"{'score': -0.975, 'status': 'OK'}"
+-1,Not tasty and the texture was just nasty.,"{'score': -0.9666365776331168, 'status': 'OK'}"
+1,Stopped by during the late May bank holiday off Rick Steve recommendation and loved it.,"{'score': 0.975, 'status': 'OK'}"
+1,The selection on the menu was great and so were the prices.,"{'score': 0.9575054935196873, 'status': 'OK'}"
