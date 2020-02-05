@@ -13,7 +13,7 @@ ds10 = "Yelp_Reviews_sample"
 
 def ConvertCsvToExcel(file):
     read_file = pd.read_csv(file + ".csv")
-    read_file.to_excel("MeaningCloud_" + file + ".xlsx", index = None, header = True)
+    read_file.to_excel("Excel_" + file + ".xlsx", index = None, header = True)
 
 ConvertCsvToExcel(ds1)
 ConvertCsvToExcel(ds2)
