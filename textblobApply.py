@@ -1,20 +1,6 @@
 import pandas as pd
 from textblob import TextBlob
 
-"""
-# Splits the Result Column into Polarity and Subjectivity
-sentiment_series = df['Result'].tolist()
-columns = ['Polarity_result', 'Subjectivity_result']
-df2 = pd.DataFrame(sentiment_series, columns=columns, index=df.index)
-
-# Combine both DataFrames into 1
-df3 = pd.merge(df, df2, left_index=True, right_index=True)
-# deletes the column Result, so that there's no redundant data
-del df3['Result']
-# save the new Dataset into a csv file
-df3.to_csv('Textblob_Analysed_Domain_Review.csv', index=False)
-"""
-
 # Variables with name of csv file
 ds1 = "Amazon_Reviews.csv"
 ds2 = "Amazon_Reviews_sample.csv"
@@ -27,7 +13,7 @@ ds8 = "Uber_Ride_Reviews_sample.csv"
 ds9 = "Yelp_Reviews.csv"
 ds10 = "Yelp_Reviews_sample.csv"
 
-# Iterates through the Column and applies paralleldots.sentiment
+# Iterates through the Column and applies textblob.sentiment
 def sentiment_calc(Review):
     try:
         return TextBlob(Review).sentiment
@@ -49,8 +35,13 @@ def apply_analysis(ds):
     # save the new Dataset into a csv file
     df3.to_csv('Textblob_Analysed_' + ds, index=False)
 
+apply_analysis(ds1)
 apply_analysis(ds2)
+apply_analysis(ds3)
 apply_analysis(ds4)
+apply_analysis(ds5)
 apply_analysis(ds6)
+apply_analysis(ds7)
 apply_analysis(ds8)
+apply_analysis(ds9)
 apply_analysis(ds10)
