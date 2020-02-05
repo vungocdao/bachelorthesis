@@ -11,18 +11,18 @@ ds8 = "Uber_Ride_Reviews_sample.csv"
 ds9 = "Yelp_Reviews.csv"
 ds10 = "Yelp_Reviews_sample.csv"
 
-def remove_unnamed(ds):
+def removeUnnamed(ds):
     df = pd.read_csv(ds)
     df.drop(df.filter(regex="Unname"),axis=1,inplace=True)
     df.to_csv(ds,index=False)
 
-remove_unnamed(ds2)
-remove_unnamed(ds3)
-remove_unnamed(ds4)
-remove_unnamed(ds5)
-remove_unnamed(ds6)
-remove_unnamed(ds7)
-remove_unnamed(ds8)
-remove_unnamed(ds9)
-remove_unnamed(ds10)
-remove_unnamed(ds1)
+removeUnnamed(ds2)
+removeUnnamed(ds3)
+removeUnnamed(ds4)
+removeUnnamed(ds5)
+removeUnnamed(ds6)
+removeUnnamed(ds7)
+removeUnnamed(ds8)
+removeUnnamed(ds9)
+removeUnnamed(ds10)
+removeUnnamed(ds1)
