@@ -31,9 +31,7 @@ def apply_analysis(ds):
     df.to_csv("MeaningCloud_Analysed_" + ds, index=False)
 
 apply_analysis(ds2)
-"""
 apply_analysis(ds4)
 apply_analysis(ds6)
 apply_analysis(ds8)
 apply_analysis(ds10)
-"""
