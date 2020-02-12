@@ -1,3 +1,5 @@
+# currently not in use -> using Add-In
+
 import pandas as pd
 import meaningcloud as mc
 
