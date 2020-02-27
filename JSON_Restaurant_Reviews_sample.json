@@ -1,34 +1,40 @@
 {
  "columns":[
   "Unnamed: 0",
+  "Unnamed: 0.1",
   "Polarity",
   "Review"
  ],
  "data":[
   [
    0,
+   0,
    1,
-   "Wow Loved this place"
+   "wow loved this place"
   ],
   [
    1,
+   1,
    -1,
-   "Crust is not good"
+   "crust is not good"
   ],
   [
    2,
+   2,
    -1,
-   "Not tasty and the texture was just nasty"
+   "not tasty and the texture was just nasty"
   ],
   [
    3,
+   3,
    1,
-   "Stopped by during the late May bank holiday off Rick Steve recommendation and loved it"
+   "stopped by during the late may bank holiday off rick steve recommendation and loved it"
   ],
   [
    4,
+   4,
    1,
-   "The selection on the menu was great and so were the prices"
+   "the selection on the menu was great and so were the prices"
   ]
  ]
 }
