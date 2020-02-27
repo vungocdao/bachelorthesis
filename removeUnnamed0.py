@@ -12,9 +12,9 @@ ds9 = "Yelp_Reviews.csv"
 ds10 = "Yelp_Reviews_sample.csv"
 
 def removeUnnamed(ds):
-    df = pd.read_csv("Textblob_Analysed_" + ds)
+    df = pd.read_csv(ds)
     df.drop(df.filter(regex="Unnamed"),axis=1,inplace=True)
-    df.to_csv("Textblob_Analysed_" + ds,index=False)
+    df.to_csv(ds,index=False)
 
 removeUnnamed(ds2)
 removeUnnamed(ds3)

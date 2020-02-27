@@ -14,7 +14,7 @@ ds10 = "Yelp_Reviews_sample.csv"
 def lowercase(File):
     df = pd.read_csv(File)
     df['Review'] = df['Review'].str.lower()
-    df.to_csv(File)
+    df.to_csv(File, index = False)
 
 lowercase(ds1)
 lowercase(ds2)

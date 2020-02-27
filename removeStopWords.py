@@ -14,7 +14,7 @@ ds10 = "Yelp_Reviews_sample.csv"
 def removeStopWords(File):
     df = pd.read_csv(File)
     df['Review'] = df['Review'].replace()
-    df.to_csv(File)
+    df.to_csv(File, index=False)
 
 removeStopWords(ds1)
 removeStopWords(ds2)

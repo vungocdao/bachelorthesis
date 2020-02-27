@@ -14,7 +14,7 @@ ds10 = "Yelp_Reviews_sample.csv"
 def removeSpecialCharacters(File):
     df = pd.read_csv(File)
     df['Review'] = df['Review'].replace(r'[^A-Za-z ]+', '', regex = True)
-    df.to_csv(File)
+    df.to_csv(File, index=False)
 
 removeSpecialCharacters(ds1)
 removeSpecialCharacters(ds2)
