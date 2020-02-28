@@ -9,8 +9,3 @@
 
 - stopwords.txt created
   - have to look up how to remove "i, at, ..." without taking them out of whole words
-
-To-Do:
-- remove Stopwords
-- configure "removeSpecialCharacters" (removes Emojis as of now)
-  - remove special Characters where there are more than 1 alphabetic character before or after it
