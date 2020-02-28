@@ -1,0 +1,16 @@
+- Folder "Tested for F1 Calculation"
+  - F1-Score with 3 Classes
+
+- IBM Sample Code works
+  - need to configure the code so that it works with the Datasets
+
+- Stanford
+  - haven't looked at it yet
+
+- stopwords.txt created
+  - have to look up how to remove "i, at, ..." without taking them out of whole words
+
+To-Do:
+- remove Stopwords
+- configure "removeSpecialCharacters" (removes Emojis as of now)
+  - remove special Characters where there are more than 1 alphabetic character before or after it
