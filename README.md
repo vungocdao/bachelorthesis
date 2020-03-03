@@ -9,3 +9,5 @@ is it possible to apply explainatory results to these api. Please have a look at
 
 https://docs.seldon.io/projects/alibi/en/latest/examples/anchor_text_movie.html
 
+https://github.com/slundberg/shap
+
