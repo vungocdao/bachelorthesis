@@ -1,0 +1,5 @@
+java -cp "*" -mx5g edu.stanford.nlp.sentiment.SentimentPipeline -file input.txt
+
+works but "-output" doesn't work
+  - means that right now the results can only be displayed through console
+
