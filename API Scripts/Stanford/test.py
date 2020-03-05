@@ -1,5 +1,3 @@
-# Not applicable, since SA is not accessible with Python
-
 from pycorenlp import StanfordCoreNLP
 
 nlp = StanfordCoreNLP('http://localhost:9000')
