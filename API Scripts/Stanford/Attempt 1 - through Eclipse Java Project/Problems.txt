@@ -1,0 +1,5 @@
+Mainly produced through the import parts
+  - The Type "..." is not accessible
+	- This error results into more errors, which should be automatically solved, if importing works
+
+EDIT: edu.stanford is now accessible, only "org.ejml.simple.SimpleMatrix is not accessible
