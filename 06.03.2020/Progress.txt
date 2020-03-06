@@ -1,0 +1,13 @@
+Stanford:
+works now with some Errors (noted in "Attempt 3 - through Console command" folder)
+https://github.com/vungocdao/bachelorthesis/blob/APIs/API%20Scripts/Stanford/Attempt%203%20-%20through%20Console%20command/Console%20Command.txt
+
+
+Comparison TextBlob and Stanford only for Restaurant Domain for now:
+https://github.com/vungocdao/bachelorthesis/blob/APIs/Datasets/Tested%20for%20F1%20Calculation/Comparison%20TextBlob%20and%20Stanford.xlsx
+
+
+Do's:
+Have to re-do the Calculation for imbalanced Classification
+Have to test Sentistrength on long sentences
+Use Hydrator to extract Twitter Content
