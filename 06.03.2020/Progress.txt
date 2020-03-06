@@ -22,3 +22,4 @@ Reminder for myself:
 1. do the Calculation for imbalanced Classification with scikit-learn
 2. test Sentistrength on long sentences
 3. Use Hydrator to extract Twitter Content
+4. read through the links at README.md
