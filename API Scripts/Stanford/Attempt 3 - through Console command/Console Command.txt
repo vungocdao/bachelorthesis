@@ -1,5 +1,52 @@
+Input:
+
 java -cp "*" -mx5g edu.stanford.nlp.sentiment.SentimentPipeline -file input.txt
 
-works but "-output" doesn't work
-  - means that right now the results can only be displayed through console
 
+EDIT:
+Seems like Reviews with huge sentences take forever or result into "Java heap space" Error
+-> looks like I'll have to cut the file into smaller pieces and put them all into the Pipeline (?)
+
+-> have to slice the rest from all datatypes (rest = every cell after 1010)
+
+NOTE:
+5GB RAM for the Operators
+-----------------------------------------------------------------------------------------------
+Amazon Reviews: loaded for 40 Minutes; stopped manually
+Reached Row 238
+-----------------------------------------------------------------------------------------------
+IMDB Reviews: Started at around 11:32; stopped at 12:00
+Reached Row 89
+
+Skipped this Sentence (Row 54)
+ WARN edu.stanford.nlp.pipeline.ParserAnnotator - Parsing of sentence failed, possibly because of out of memory.  Will ignore and continue: film library right have not finished watching it bad disbelief audrey hepburn totally lost talent then although she d pretty much finished robin marian worst thing appallingly stupid film it s really interest last feature film dorothy stratten appearance prior homicide there nothing idiocy gazzara cronies little signals little bows nods real screwball comedy faintest palest shadow who could believe even manhattan environs hepburn inhabited magically even mythically breakfast tiffany s twenty years earlier soundtrack old sinatra songs gershwin song title taken loud obvious you sure do not wait credits find something subtly woven cine musique picture know songs blasted you reverting type means going back well going back down guess case audrey hepburn s chic european lady see someone formerly occasionally actress always star even lost talent star someone whose talent continuing grow period like ann margret played role would life it even given unbelievably bad material mongoloid level situations hepburn great person course greater movie stars ever dreamed being one charming beautiful film actors dreadful performance went make atrocious tv movie robert wagner called love among thieves they laughed though still playing ingenue s even much vainer obviously less intelligent actresses insisted upon like lana turner infinitely effective hepburn turner took acting seriously even bad hepburn does not take seriously all could not bothered it even hair clothes look tacky last really good work two road perhaps perfect possibly best many ways and girl plays country singer sickening john ritter horrible simply nothing recommend film except see dorothy stratten truly pretty otherwise critic david thomson s oft used phrase losing his her talent never made sense ben gazarra lost sex appeal then films gazarra hepburn who could ask anything less sandra dee s last pitiful film lost years later low budget nothing this least ms dee spoke voice audrey hepburn s accent sounded silly she d go pbs gardens world audrey hepburn somewhat irritating accent works walks english gardens aristocrats waxes effusively what like flowers go back nature naturalized daffodils actual fictional movie sounds ridiculous to think breakfast tiffany s profound sort light poetic thing audrey hepburn one beautiful women world she surely one beautiful screen presences my fair lady matching garbo several things delphine seyrig last year marienbad this final brief role angel hap spielberg film always lady stuff corny witless stifling i went memorial service fifth avenue presbyterian church beautiful service included boys choir singing shaker hymn simple gifts thing listed program sudden playing hepburn s singing moon river fire escape breakfast tiffany s brought much emotion real tears congregation a great lady fine actress as the nun s story one greatest beautiful film stars many movies s s became truly bad one that s common perhaps great human who making things film performances trivial nevertheless largeness mind want flaws pointed mercilessly which late film work contained abundance talk hepburn s miscasting my fair lady one original actress wait dark starred lee remick broadway never celebrated hepburn better actress many ways hepburn completely incapable playing anything really sordid although hepburn least adequate enough part that acting went downhill .
+
+Stopping ERROR:
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+-----------------------------------------------------------------------------------------------
+Uber Ride Reviews: Started at 10:50~; stopped at 11:15 Error:
+Reached Row 228
+
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+        at edu.stanford.nlp.util.Generics.newLinkedList(Generics.java:70)
+        at edu.stanford.nlp.pipeline.ParserAnnotator.doOneSentence(ParserAnnotator.java:324)
+        at edu.stanford.nlp.pipeline.ParserAnnotator.doOneSentence(ParserAnnotator.java:254)
+        at edu.stanford.nlp.pipeline.SentenceAnnotator.annotate(SentenceAnnotator.java:102)
+        at edu.stanford.nlp.pipeline.AnnotationPipeline.annotate(AnnotationPipeline.java:76)
+        at edu.stanford.nlp.pipeline.StanfordCoreNLP.annotate(StanfordCoreNLP.java:637)
+        at edu.stanford.nlp.sentiment.SentimentPipeline.main(SentimentPipeline.java:350)
+-----------------------------------------------------------------------------------------------
+Yelp Reviews: Started at 11:17; stopped at around 11:30
+Reached Row 38
+
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+        at edu.stanford.nlp.util.Generics.newLinkedList(Generics.java:70)
+        at edu.stanford.nlp.pipeline.ParserAnnotator.doOneSentence(ParserAnnotator.java:324)
+        at edu.stanford.nlp.pipeline.ParserAnnotator.doOneSentence(ParserAnnotator.java:254)
+        at edu.stanford.nlp.pipeline.SentenceAnnotator.annotate(SentenceAnnotator.java:102)
+        at edu.stanford.nlp.pipeline.AnnotationPipeline.annotate(AnnotationPipeline.java:76)
+        at edu.stanford.nlp.pipeline.StanfordCoreNLP.annotate(StanfordCoreNLP.java:637)
+        at edu.stanford.nlp.sentiment.SentimentPipeline.main(SentimentPipeline.java:350)
+-----------------------------------------------------------------------------------------------
+Restaurant Reviews worked fine
+-----------------------------------------------------------------------------------------------
