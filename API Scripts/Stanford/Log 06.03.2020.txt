@@ -1,8 +1,3 @@
-Input:
-
-java -cp "*" -mx5g edu.stanford.nlp.sentiment.SentimentPipeline -file input.txt
-
-
 EDIT:
 Seems like Reviews with huge sentences take forever or result into "Java heap space" Error
 -> looks like I'll have to cut the file into smaller pieces and put them all into the Pipeline (?)
