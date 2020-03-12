@@ -9,5 +9,5 @@ with open(ds2 + '.txt', 'r') as f:
     n = 0
     for line in f:
         count+=1
-        if count <= 101:
+        if count > 801 and count <= 901:
             print(line, end='')
