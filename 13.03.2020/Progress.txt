@@ -1,0 +1,8 @@
+Calculation added
+Will have to calculate with imbalanced formula for 1 domain
+
+Note:
+Definetly have to do the pre-processing again
+remove stopwords so that StanfordNLP doesn't take ages
+e.g. removed special characters and replaced them with ' '
+    -> isn t
