@@ -1,0 +1,7 @@
+1. lowercase
+2. removeStopWords
+3. removeSpecialCharacters
+
+current order:
+1. removeSpecialCharacters
+2. lowercase
