@@ -1,8 +1,12 @@
 Calculation added
-Will have to calculate with imbalanced formula for 1 domain
+------------------------------------------------------------------------------------------
+Imbalanced Calculation:
 
+Do I treat Neutral as the 2nd negative class? (As in do I have to do the multiclass calc?)
+actual_neg2 range would be 0 then -> prints errors since ranges don't add up
+------------------------------------------------------------------------------------------
 Note:
 Definetly have to do the pre-processing again
 remove stopwords so that StanfordNLP doesn't take ages
-e.g. removed special characters and replaced them with ' '
-    -> isn t
+e.g. I removed special characters and replaced them with ' '
+    result: isn t, doesn t (should be ignored by the APIs)
