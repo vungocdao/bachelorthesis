@@ -1,0 +1,10 @@
+Classification Reports added
+
+added Classification Report for 0.3 Threshold on Textblob
+- improvement marked in yellow (F1 for Positive Class increased - Negative Class no changes)
+
+https://github.com/vungocdao/bachelorthesis/tree/APIs/Datasets/Calculation%20Result/Classification%20Report
+------------------------------------------------------------------------------------------
+Fixed error in Textblob Analysis (Datasets contained special characters and uppercase)
+- didn't change the outcome
+------------------------------------------------------------------------------------------
