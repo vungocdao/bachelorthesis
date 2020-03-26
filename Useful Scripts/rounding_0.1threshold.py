@@ -13,11 +13,11 @@ ds10 = "Yelp_Reviews_sample.csv"
 
 def round(ds):
     df = pd.read_csv("Textblob_Analysed_" + ds)
-    df.loc[(df['Polarity_result'] >= 0.3), 'Polarity_rounded'] = 1
-    df.loc[(df['Polarity_result'] <= -0.3), 'Polarity_rounded'] = -1
-    df.loc[(df['Polarity_result'] < 0.3) & (df['Polarity_result']> -0.3), 'Polarity_rounded'] = 0
+    df.loc[(df['Polarity_result'] >= 0.1), 'Polarity_rounded'] = 1
+    df.loc[(df['Polarity_result'] <= -0.1), 'Polarity_rounded'] = -1
+    df.loc[(df['Polarity_result'] < 0.1) & (df['Polarity_result']> -0.1), 'Polarity_rounded'] = 0
     df['Polarity_rounded'] = df['Polarity_rounded'].astype(int)
-    df.to_csv("Textblob_Analysed_Rounded_0.3_" + ds, index=False)
+    df.to_csv("Textblob_Analysed_Rounded_0.1_" + ds, index=False)
 round(ds1)
 # round(ds2)
 round(ds3)
