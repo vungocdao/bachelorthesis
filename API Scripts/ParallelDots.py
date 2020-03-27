@@ -25,7 +25,7 @@ def sentiment_calc(Review):
 # Initializes DataFrame, Applies API and creates 'Result' column, saves into new File
 def apply_analysis(ds):
     df = pd.read_csv(ds)
-    df['Result'] = df['Review'].apply(sentiment_calc)
+    df['Polarity_result'] = df['Review'].apply(sentiment_calc)
     df.to_csv("Paralleldots_Analysed_" + ds, index=False)
 
 apply_analysis(ds2)

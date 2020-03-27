@@ -12,7 +12,7 @@ ds9 = "Yelp_Reviews"
 ds10 = "Yelp_Reviews_sample"
 
 def ConvertExcelToCsv(file):
-    read_file = pd.read_excel("MeaningCloud_" + file + ".xlsx")
+    read_file = pd.read_excel("MeaningCloud_" + file + ".xlsx", sheet_name='Sheet1')
     read_file.to_csv("MeaningCloud_Analysed_" + file + ".csv", index = False)
 
 ConvertExcelToCsv(ds2)
