@@ -7,3 +7,7 @@ API:
 - Repustate has a new register page
      - no registration with instant access, have to wait till someone verifies the mail
      - have tested it right now with another E-mail of mine and have to wait for a reply
+
+- IBM
+     - Attempt 1: working with direct input of the Text -> only gives me the sentiment of the first sentence
+     - Attempt 2: working with pandas to take the dataframe column into a list and going through the list -> also only gives me the sentiment of the first sentence
