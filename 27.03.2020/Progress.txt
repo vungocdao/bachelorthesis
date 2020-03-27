@@ -1,0 +1,9 @@
+Classification Report:
+- Added .1 Threshold for TextBlob
+- Added MeaningCloud and ParallelDots
+
+------------------------------------------------------------------------------------------
+API:
+- Repustate has a new register page
+     - no registration with instant access, have to wait till someone verifies the mail
+     - have tested it right now with another E-mail of mine and have to wait for a reply
