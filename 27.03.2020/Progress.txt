@@ -1,8 +1,8 @@
 Classification Report:
 - Added .1 Threshold for TextBlob
 - Added MeaningCloud and ParallelDots
-
-------------------------------------------------------------------------------------------
+- Added Repustate for only 1 Domain, since 1000 Hits/Month Restriction + Registration isn't as easy as before
+-------------------------------------------------------------------------------------------------------------
 API:
 - Repustate has a new register page
      - no registration with instant access, have to wait till someone verifies the mail
