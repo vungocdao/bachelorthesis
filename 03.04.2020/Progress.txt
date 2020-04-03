@@ -1,0 +1,8 @@
+IBM Results added, no calculation yet
+
+SentiStrength Results and Calculation added
+
+MeaningCloud value NONE transformed into Neutral - does it make sense?
+
+TextBlob Naive Bayes Results and Calculation added
+-------------------------------------------------------------------------
