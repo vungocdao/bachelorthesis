@@ -1,8 +1,32 @@
-IBM Results added, no calculation yet
+IBM Results added, no calculation yet -> have to rerun for some rows, as they seemed to be skipped by the API
 
 SentiStrength Results and Calculation added
 
 MeaningCloud value NONE transformed into Neutral - does it make sense?
 
 TextBlob Naive Bayes Results and Calculation added
--------------------------------------------------------------------------
+
+Only went through some sites explaining BeautifulSoup extraction as of now (for Repustate)
+-----------------------------------------------------------------------------------------------------------
+
+Except for TextBlob (usage of another Model) no metaparameter modifications
+
+------------------------------------------------------------------------------------------------------------
+Questions:
+
+for clarification:
+  - metaparameter modification =
+    - e.g. add User-Dictionary (for case of MeaningCloud) ?
+    - include more annotators (for case of Stanford) ?
+    - change default settings of SentiStrength ? (e.g. include incorrect spellings) ?
+
+IBM Results:
+  - Rows with more than 1 Tone
+    - method: rate specific tones as positive, negative, neutral
+	      add the matching tones
+	      compare the different tone scores and the largest tone score = overall tone
+    - e.g. Yelp Row 98 -> 3 Tones -> sadness biggest score so overall tone is sadness?
+
+  - Tones with unclear (?) category: analytical (neutral), tentative (negative?), confident (positive?)
+------------------------------------------------------------------------------------------------------------
+
