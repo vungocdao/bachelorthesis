@@ -1,0 +1,12203 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.889498,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.613619,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.535861,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.723151,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.773317,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.616824,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.8152,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.789698,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.500757,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.773397,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.531768,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.596399,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.58017,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.675443,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.506763,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.583153,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.624123,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.641145,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.560098,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.681699,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.705369,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.572994,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.641205,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.67542,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.653191,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.523926,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.654071,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.792001,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.554899,
+        "tone_id": "fear",
+        "tone_name": "Fear"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.969344,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.853822,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.62134,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.656875,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.530041,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.696879,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.811313,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.538922,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.597861,
+        "tone_id": "fear",
+        "tone_name": "Fear"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.731917,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.721609,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.663225,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.649899,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.594025,
+        "tone_id": "fear",
+        "tone_name": "Fear"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.557028,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.858134,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.67819,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.530643,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.602968,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.786838,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.667152,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.600787,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.751406,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.692572,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.66301,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.607457,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.538639,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.830239,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.633164,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.544484,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.822181,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.595029,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.729735,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.732719,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.713242,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.513022,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.766101,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.59586,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.563672,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.521419,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.874389,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.582016,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.739563,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.511472,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      },
+      {
+        "score": 0.5538,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.768112,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.726435,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.546322,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.544001,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.541298,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.781614,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.6716,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.737499,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.717119,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.626053,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.559534,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.542951,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.716768,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.628059,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.610543,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.704218,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.829929,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.601101,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.535842,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.500253,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.754612,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.717122,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.744875,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.532044,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.75265,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.546763,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.603745,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.610702,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.593513,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.514704,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.624715,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.645389,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.54131,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.603581,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.784267,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.503985,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      },
+      {
+        "score": 0.626984,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.582067,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.710376,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.666729,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.602536,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.716666,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.573926,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.506493,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.621044,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.575128,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.549171,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.823099,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.753915,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.775393,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.509049,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.794724,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.886857,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.697558,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.776293,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.740908,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.769501,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.583216,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.502162,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.63827,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.519411,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.501854,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.535137,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.515476,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.715389,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.504469,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.710788,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.583953,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      },
+      {
+        "score": 0.819003,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.502699,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.572803,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.632609,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.504301,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.52502,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.671411,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.593393,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.83721,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.726336,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.603926,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.830936,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.608282,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      },
+      {
+        "score": 0.74549,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.579949,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.718608,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.577034,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.728621,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.647408,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.714957,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.529083,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.702104,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.534455,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.700145,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.561273,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.553393,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.610196,
+        "tone_id": "fear",
+        "tone_name": "Fear"
+      },
+      {
+        "score": 0.574477,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.636507,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.897366,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.624574,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.508496,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.635172,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.51161,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.61699,
+        "tone_id": "fear",
+        "tone_name": "Fear"
+      },
+      {
+        "score": 0.738149,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.600338,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.691899,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.646261,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.584024,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.633526,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.535843,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.581102,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.506763,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.570771,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.638305,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.559318,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.633696,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.52523,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.552268,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.568262,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.525771,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.729655,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.623738,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.583859,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.760984,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.722554,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.667787,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.777691,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.520023,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.631099,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.586987,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.772611,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.638807,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.638708,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.5538,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.696269,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.58714,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.889004,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.705401,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.766167,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.801729,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.529312,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.729656,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.575046,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.827936,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.698291,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.718949,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.502017,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.705706,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.564036,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.517423,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.642572,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.516492,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.731277,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.716804,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.546882,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.692087,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.576788,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.837115,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.532954,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.517343,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.800788,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.569907,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.627085,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.539657,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.592947,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.689559,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.839847,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.599015,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.555353,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.563767,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.787806,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.691493,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.66487,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.807325,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.840222,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.643905,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.774916,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.731115,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.702369,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.516668,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.604359,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.563684,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.66698,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.6441,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.724236,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.598118,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.598037,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.644984,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.598711,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.544325,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.645002,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.581158,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.70679,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.522689,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.627862,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.550719,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.832908,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.783424,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.83891,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.704575,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.505983,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.807193,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.625059,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.651536,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.809181,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.641756,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.560644,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.765702,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.555102,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.532616,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.545276,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.515461,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.936705,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.608735,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.79233,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.506989,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.616841,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.710911,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.618451,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      },
+      {
+        "score": 0.506763,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.714159,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.561417,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.61237,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.564476,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.608683,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.896392,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.689234,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.897014,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.677481,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.686763,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.721999,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.554065,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.8152,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.558329,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.707813,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.6313,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.662689,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.565078,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.648128,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.716301,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.543252,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.610181,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.826396,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.674785,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.734545,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.668623,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.826979,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.671289,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.510555,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.550711,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.69163,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.556207,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.50663,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.573233,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.644775,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.757963,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.513743,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.796279,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.58393,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.641954,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.552458,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.596734,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.655766,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.678799,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.566915,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.913977,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.610469,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.728284,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.60658,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.644046,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.556777,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.704683,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.597657,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.709009,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.776282,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.613936,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.740243,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.540129,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.520647,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.587457,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.762356,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.576386,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.694745,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.747575,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.752019,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.641954,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.526349,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.626462,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.612277,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.64996,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.525193,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.783197,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.615352,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.688612,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.662372,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.676608,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.598145,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.557108,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.541543,
+        "tone_id": "fear",
+        "tone_name": "Fear"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.663422,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.561076,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.529588,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.527757,
+        "tone_id": "fear",
+        "tone_name": "Fear"
+      },
+      {
+        "score": 0.593069,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.835582,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.649408,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.55704,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.515603,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      },
+      {
+        "score": 0.681699,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.635188,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.841378,
+        "tone_id": "fear",
+        "tone_name": "Fear"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.645048,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.521892,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.69467,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.524815,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.514277,
+        "tone_id": "fear",
+        "tone_name": "Fear"
+      },
+      {
+        "score": 0.746159,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.625465,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.617362,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.555842,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.595512,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.576124,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.564975,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.57179,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.521705,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.633424,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.686155,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.607587,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.6805,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.554479,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.519766,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.614658,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.69549,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.58393,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.657772,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.532313,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.652174,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.657742,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.508133,
+        "tone_id": "fear",
+        "tone_name": "Fear"
+      },
+      {
+        "score": 0.539011,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.717033,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.601221,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.680617,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.590409,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.912871,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.579367,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.879417,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.720015,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      },
+      {
+        "score": 0.523822,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.511675,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.572323,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.600115,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.501203,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.597316,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.549682,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.747355,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.52721,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.602927,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.733395,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.525904,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.541839,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.558482,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.678371,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.541583,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.571363,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.555362,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.934686,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.554648,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.720741,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.539563,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.745629,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.772113,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.829341,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.705619,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.809614,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.778006,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.89551,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.64054,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.778469,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.764714,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.543154,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.861668,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.878156,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.723305,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.737453,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.540934,
+        "tone_id": "fear",
+        "tone_name": "Fear"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.528833,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.582541,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.518058,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.572638,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.779284,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.579037,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.515238,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.6477,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.750306,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.874247,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.804361,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.608069,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.767405,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.676013,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.529534,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.716636,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.562347,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.716147,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      },
+      {
+        "score": 0.729586,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.641864,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.597021,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.571921,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.742107,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.753023,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.512813,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.629467,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.640853,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.500258,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.545942,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.649052,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.674395,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.591588,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.536592,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.554451,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.677605,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.657807,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.505788,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.544502,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.516724,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.504301,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.61611,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.618451,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      },
+      {
+        "score": 0.882284,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.53751,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.80801,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.833377,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.679992,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.71819,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.547507,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.523493,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.523586,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.514396,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.59298,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.52086,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.978101,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.742084,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.594013,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.822318,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.561367,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.544624,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.629713,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.520326,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.536091,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.646533,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.834759,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.832174,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.636313,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.551226,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.631426,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.593986,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.685286,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.643254,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.878328,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.563731,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.561333,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.537979,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.5261,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.79404,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.617986,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.523661,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.710814,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.556759,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.75489,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.58393,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.565006,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.610635,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.747586,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.504024,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.691564,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.529432,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.621479,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.645635,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.600667,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.750051,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.734438,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.610107,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.510856,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.552582,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.687768,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.505978,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.509187,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.719942,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.806461,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.579874,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.612755,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.738811,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.807134,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.663575,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.530974,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.675581,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.711887,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.794531,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.784119,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.524726,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.671967,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.773211,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.597565,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.613382,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.625406,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.532338,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.710692,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.608218,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.684574,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.557641,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.500895,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.560098,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.867553,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.51607,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.830334,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.641428,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.746125,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.529076,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.518392,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.600499,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.546192,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.666589,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.701511,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.615352,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.715486,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.680811,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.740384,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.583979,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.567561,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.803318,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.715667,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.729108,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.762008,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.696162,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.530868,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.691485,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.850286,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.617616,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.879346,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.64943,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.657077,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.785232,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.647354,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.828041,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.5368,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.684037,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.584612,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.650241,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.551923,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.537706,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.537256,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.711618,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.62649,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.514935,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.794237,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.658888,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.847128,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.698968,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.563211,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.622921,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.690746,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.503087,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.787792,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.900567,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.687273,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.641368,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.610351,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.654709,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.949243,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.543112,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      },
+      {
+        "score": 0.775662,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.62415,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.558698,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.552166,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.627092,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.52451,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.526654,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.506564,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.518812,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.552821,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.69282,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.822231,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.804721,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.688642,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.766664,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.508542,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.608507,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.521568,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.555978,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.609078,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.780132,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.62686,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.507602,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.942272,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.677579,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.634009,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.884276,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.558822,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.788007,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.855825,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.686933,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.549962,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.574709,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.501844,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.62928,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.559849,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.757411,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.587457,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.593196,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.540865,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.74071,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.53416,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.860746,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.501593,
+        "tone_id": "fear",
+        "tone_name": "Fear"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.504534,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.511377,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.566115,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.690297,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.546896,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.544696,
+        "tone_id": "fear",
+        "tone_name": "Fear"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.924515,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.50527,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.619228,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.766248,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.927096,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.536936,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.618761,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.668338,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.65749,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.787156,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.593898,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.547297,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.555582,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.685214,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.687768,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.525794,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.674593,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.662266,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.566946,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.754531,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.70948,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.747612,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.712295,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.540225,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.594239,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.527226,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.687768,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.562312,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.638987,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.742885,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.552782,
+        "tone_id": "fear",
+        "tone_name": "Fear"
+      },
+      {
+        "score": 0.525007,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.61572,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.683669,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.755313,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.623444,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.633874,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.586438,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.520657,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.500636,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.553349,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.660965,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.69275,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.611839,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.7329,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.701835,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.565093,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.804675,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.69856,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.666281,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.585453,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.518355,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.549078,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.534556,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.822701,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.801713,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.598604,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.513637,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.563278,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.589295,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.550657,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.677069,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.545318,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.711887,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.697474,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.740746,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.561913,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.545436,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.747679,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.581831,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.735102,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.802294,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.610704,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.844935,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.596066,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.560524,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.576144,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.702469,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.786334,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.638284,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.561556,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.557034,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.56744,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.741648,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.503064,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.640811,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.557272,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.756362,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.664948,
+        "tone_id": "fear",
+        "tone_name": "Fear"
+      },
+      {
+        "score": 0.645985,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      },
+      {
+        "score": 0.801827,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.559653,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.584935,
+        "tone_id": "fear",
+        "tone_name": "Fear"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.599658,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.62436,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.963544,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.610632,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.622907,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.650056,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.698241,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.56386,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.8619,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.608183,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.532575,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.576682,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.692593,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.573267,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.562804,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.637735,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.52071,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.596428,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.690901,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.518215,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.658767,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.600757,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.742078,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.509368,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      },
+      {
+        "score": 0.694514,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.589393,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.702369,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.547653,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.658154,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.623521,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.696601,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.58569,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.619099,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.785307,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.502017,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.69965,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.608692,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.8743,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.649361,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.640737,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.851439,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.598144,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.573469,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.527032,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.564539,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.622503,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.748728,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.592604,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.546039,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.849932,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.590434,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.623625,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.522139,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.73321,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.552172,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.563616,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.536803,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.553471,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.660035,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.777469,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.691381,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.568262,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.643577,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.720012,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.895415,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.66461,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.534455,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.683937,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.645672,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.626632,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.639793,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.803078,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.59183,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.50576,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.613439,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.777842,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.576147,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.824215,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.752532,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.85652,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.745634,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.543112,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.758557,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.73993,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.7922,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.613798,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.668564,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.519783,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.910513,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.895468,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.66996,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.552075,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.661413,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.546622,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.859567,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.920089,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.691524,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.629352,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.594103,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.519139,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.517411,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.545483,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.58393,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.743104,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.67397,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.748942,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.546611,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.563256,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.62186,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.666262,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.77064,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.601496,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.583197,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      },
+      {
+        "score": 0.569731,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.531579,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.80499,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.507856,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.657939,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.519022,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.747587,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.513195,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.516373,
+        "tone_id": "fear",
+        "tone_name": "Fear"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.675025,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.59211,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.54025,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.538076,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.753498,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.589874,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.550951,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.821505,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.577516,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.634469,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.717047,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.605684,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.912164,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.671782,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.653388,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.737513,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.540794,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.528392,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.548579,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      },
+      {
+        "score": 0.660398,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.716301,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.652793,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.6731,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.530755,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.66457,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.687409,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      },
+      {
+        "score": 0.573356,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.619105,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.613413,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.588341,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.717267,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.629085,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.581236,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.644016,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.749891,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.757313,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.699865,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.661535,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.571135,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.715636,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.783582,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.75152,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.628636,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.576274,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.514414,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.552378,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.789376,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.530109,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.727837,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.595136,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.5759,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.551921,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.75152,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.600198,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.588612,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.617627,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.580662,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.624881,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.724869,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.647474,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.669326,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.512117,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.6713,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.62479,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.50862,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.563154,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.722136,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.519077,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.678188,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      },
+      {
+        "score": 0.501231,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.598004,
+        "tone_id": "fear",
+        "tone_name": "Fear"
+      },
+      {
+        "score": 0.635301,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.574664,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.83349,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.56234,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.603234,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.625656,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.685284,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.511477,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.596617,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.579934,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.671525,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.860493,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.614553,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.561322,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.618881,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.613233,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.566955,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.692145,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.553513,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.726448,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.526181,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.586795,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.731132,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.716848,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.697655,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.709321,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.758828,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.527307,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.763621,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.629427,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.850402,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.817662,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.503838,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.503647,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.627835,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.65668,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.614465,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.780227,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.614584,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.912453,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.821661,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.529743,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.878981,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.527098,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.856469,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.892311,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.629568,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      },
+      {
+        "score": 0.642304,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.616254,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.537312,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      },
+      {
+        "score": 0.891929,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.63332,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.515464,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.530794,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.560675,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.848959,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.718562,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.77728,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.509368,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      },
+      {
+        "score": 0.589295,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.763413,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.532726,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.552829,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.507804,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.690415,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.627899,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.588105,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.594263,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.558933,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.5511,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.785785,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.518793,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.625106,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.57855,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.609249,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.668596,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.649637,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.626835,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.661568,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.880317,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.508382,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.631918,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.524313,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.708677,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.526489,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.525892,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.715826,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.563089,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.626988,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.739087,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.566878,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.651752,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.661617,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.601926,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.878458,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.937166,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.554927,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.662343,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.51893,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.553374,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.505028,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.942658,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.520061,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.701768,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.585787,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.65193,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.689955,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.639516,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.847751,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.714431,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.832696,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.580295,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.540225,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.630808,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.792111,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.683688,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.569732,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.658146,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.532542,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.668565,
+        "tone_id": "fear",
+        "tone_name": "Fear"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.831458,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.566907,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.555105,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.639478,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.657427,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.518323,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      },
+      {
+        "score": 0.80322,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.757396,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.66698,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.650435,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.561208,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.577516,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.588212,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.512725,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.750382,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.796648,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.573301,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.666911,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.510239,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.645655,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.670461,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.518308,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.585707,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.620279,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.562285,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.714941,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.649793,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.697985,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.825035,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.540129,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.687768,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.647155,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.638315,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.779226,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.622349,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.632796,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.632828,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.766085,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.5538,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.777742,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.64943,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.667322,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.8152,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.619886,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.733932,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.598602,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      },
+      {
+        "score": 0.597565,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.512603,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.69751,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.837935,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.542653,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.758255,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.606856,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.662312,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.815851,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.592765,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.689317,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.727272,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.577295,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.609877,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.805252,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.576333,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.511454,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.646108,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.73362,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.528985,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.786751,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.844506,
+        "tone_id": "fear",
+        "tone_name": "Fear"
+      },
+      {
+        "score": 0.689543,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      },
+      {
+        "score": 0.60456,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.731225,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.667566,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.727823,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.516724,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.646793,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.600813,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.739758,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.581733,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.631105,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.539532,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.695765,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.599524,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.658288,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.722362,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.735209,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.521262,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.602762,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.652002,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.562894,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.662845,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.578232,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.575316,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.524486,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.530993,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.648593,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.798545,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.593252,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.763337,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.725194,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.564308,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.660119,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.704712,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.735651,
+        "tone_id": "fear",
+        "tone_name": "Fear"
+      },
+      {
+        "score": 0.770076,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.550744,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.826183,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.71499,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.705923,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.526003,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.510072,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.615031,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.603332,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.699236,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.542762,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.676099,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.735613,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.800881,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.675395,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.755378,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.776335,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.5378,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.522702,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.55901,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.630509,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.828662,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.697957,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.606657,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.698312,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.758937,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.565798,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.817989,
+        "tone_id": "fear",
+        "tone_name": "Fear"
+      },
+      {
+        "score": 0.570071,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.627319,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.555848,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.516425,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.830238,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.676456,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.57068,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.558729,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.577607,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.554921,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.61185,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.511266,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.796123,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.822227,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.535935,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.665727,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.696208,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.772221,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.869442,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.848801,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.501702,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.762356,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.613286,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.600569,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.646264,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.761254,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.549529,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.604412,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.746119,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.606082,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.80054,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.685888,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.63677,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.757794,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.593962,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.639168,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.635229,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.790954,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.552274,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.731338,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.582045,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.567233,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": []
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.775082,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.615352,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.802218,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}

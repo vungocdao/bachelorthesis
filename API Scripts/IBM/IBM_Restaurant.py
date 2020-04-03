@@ -10,8 +10,8 @@ tone_analyzer = ToneAnalyzerV3 (
 
 tone_analyzer.set_service_url('https://api.eu-de.tone-analyzer.watson.cloud.ibm.com/instances/d967bd97-be2d-4b92-a8b4-79c1c54ae9a2')
 
-for i in range(<range of file>):
-    f = open("<filename>" + str(i) + ".txt", "r")
+for i in range(1000):
+    f = open("Restaurant_Reviews" + str(i) + ".txt", "r")
 
     text = f.readline()
 

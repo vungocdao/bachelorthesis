@@ -2,16 +2,16 @@ import json
 from ibm_watson import ToneAnalyzerV3
 from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
 
-authenticator = IAMAuthenticator("wWb3QxJovOh6mfXU_a-vjLo4QpYQnvJpfDBbVEhiCWqv")
+authenticator = IAMAuthenticator("UZSBy08xmA3B_YA809gAvJ80eNfOLMx13lzUPZwjblxS")
 tone_analyzer = ToneAnalyzerV3 (
     version = '2017-09-21',
     authenticator=authenticator
 )
 
-tone_analyzer.set_service_url('https://api.eu-de.tone-analyzer.watson.cloud.ibm.com/instances/d967bd97-be2d-4b92-a8b4-79c1c54ae9a2')
+tone_analyzer.set_service_url('https://api.eu-de.tone-analyzer.watson.cloud.ibm.com/instances/ce90b5f9-4dc4-4857-9727-0d062a5791e3')
 
-for i in range(<range of file>):
-    f = open("<filename>" + str(i) + ".txt", "r")
+for i in range(936):
+    f = open("Uber_Ride_Reviews" + str(i) + ".txt", "r")
 
     text = f.readline()
 
