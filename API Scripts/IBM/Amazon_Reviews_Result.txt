@@ -1,0 +1,48 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.790892,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.559717,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.675225,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  }
+}
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.628236,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.56389,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.65274,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  }
+}
