@@ -1,21 +1,20 @@
 import json
-from ibm_watson import ToneAnalyzerV3
+from ibm_watson import NaturalLanguageUnderstandingV1
 from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
+from ibm_watson.natural_language_understanding_v1 import Features, SentimentOptions
 
-authenticator = IAMAuthenticator("wWb3QxJovOh6mfXU_a-vjLo4QpYQnvJpfDBbVEhiCWqv")
-tone_analyzer = ToneAnalyzerV3 (
-    version = '2017-09-21',
+authenticator = IAMAuthenticator('PtJi8o9UyO8koiyqOJ-JOQPDFURQI9H8lKI8WzQxHc6Y')
+natural_language_understanding = NaturalLanguageUnderstandingV1(
+    version='2019-07-12',
     authenticator=authenticator
 )
 
-tone_analyzer.set_service_url('https://api.eu-de.tone-analyzer.watson.cloud.ibm.com/instances/d967bd97-be2d-4b92-a8b4-79c1c54ae9a2')
+natural_language_understanding.set_service_url('https://api.eu-gb.natural-language-understanding.watson.cloud.ibm.com/instances/17e005b5-ebde-489d-8483-60fbd1ea1cfd')
 
-for i in range(<range of file>):
-    f = open("<filename>" + str(i) + ".txt", "r")
+for i in range(5,1000):
+    f = open("Amazon_Reviews" + str(i) + ".txt", "r")
 
     text = f.readline()
 
-    tone_analysis = tone_analyzer.tone(
-	   {'text': text},
-	      content_type='application/json').get_result()
-    print(json.dumps(tone_analysis, indent=2))
+    sentiment_analysis = natural_language_understanding.analyze(text = text, features=Features(sentiment=SentimentOptions())).get_result()
+    print(json.dumps(sentiment_analysis, indent=2))

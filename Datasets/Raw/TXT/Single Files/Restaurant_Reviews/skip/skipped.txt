@@ -1,0 +1,17 @@
+1. 39
+2. 108
+3. 109
+4. 165
+5. 213
+6. 380
+7. 425
+8. 551
+9. 562
+10. 646
+11. 798
+12. 800
+13. 824
+14. 843
+15. 911
+
+-> Sentiment was most probably able to be analysed, but it failed, since the language couldn't be detected
