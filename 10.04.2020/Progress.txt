@@ -1,0 +1,7 @@
+- Vader and IBM added
+    - IBM Error if Sentences are too short (language detection per default on; have to disable it in order to not get an error)
+-------------------------------------------------------------------------------------------------------------------------------
+- Repustate basics for scraping in
+    - found all the tags required
+    - have to look up how to inject the text and use the button per python
+-------------------------------------------------------------------------------------------------------------------------------
