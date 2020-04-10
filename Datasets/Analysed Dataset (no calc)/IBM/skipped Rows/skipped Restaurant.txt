@@ -1,0 +1,19 @@
+1. 39 (in Excel 41)
+2. 108 ("" 109)
+3. 109 ("" 110)
+4. 165 ("" 164)
+5. 213 ("" 211
+6. 380 ("" 377)
+7. 425 ("" 421)
+8. 551 ("" 546)
+9. 562 ("" 556)
+10. 646 ("" 639)
+11. 798 ("" 790)
+12. 800 ("" 791)
+13. 824 ("" 814)
+14. 843 ("" 832)
+15. 911 ("" 899)
+
+-> Sentiment was most probably able to be analysed, but it failed, since the language couldn't be detected
+
+If it works (insert down-top in excel)
