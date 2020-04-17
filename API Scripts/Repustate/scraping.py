@@ -1,12 +1,21 @@
 import requests
-from bs4 import BeautifulSoup as bs4
+import csv
+from bs4 import BeautifulSoup
 
-r = requests.get('https://www.repustate.com/sentiment-analysis-api-demo/')
+r = requests.get('https://www.repustate.com/sentiment-analysis-api-demo/').text
 
-soup = bs4.BeautifulSoup(request.text, 'lxml')
-sentiment = soup.select('strong')
-print(soup)
-print(sentiment)
-# <textarea id="id_text" class="ctrl" name="text"> Insert Reviews into this
-# <button class="btn btn--primary"> button
+# scrape information out of website
+# soup = BeautifulSoup(r, 'lxml')
+# sentimentScore = soup.select('strong')
+# inputText = soup.find('textarea', class_='ctrl').decode_contents()
+
+# Create csv file
+# csv_file = open('repustate.csv', 'w')
+# csv_writer = csv.writer(csv_file)
+# csv_writer.writerow(['sentimentScore', 'inputText'])
+# csv_file.close()
+
+# print(dir(r)) gives all methods and attributes, help
+# <textarea name='text' class='ctrl' id='id_text'> Insert Reviews into this
+# <button class='btn btn--primary' type='submit'> button
 # in <td>, <strong> sentiment value
