@@ -15,8 +15,8 @@ ds12 = "Bias_Dataset"
 ds13 = "Negation_Dataset"
 
 def ConvertExcelToCsv(file):
-    read_file = pd.read_excel("MeaningCloud_" + file + ".xlsx", sheet_name='Sheet1')
-    read_file.to_csv("MeaningCloud_Analysed_" + file + ".csv", index = False)
+    read_file = pd.read_excel(file + ".xlsx", sheet_name='Sheet1')
+    read_file.to_csv(file + ".csv", index = False)
 
 #ConvertExcelToCsv(ds2)
 #ConvertExcelToCsv(ds4)
