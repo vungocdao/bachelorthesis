@@ -1,19 +1,21 @@
-1. 39 (in Excel 41)
-2. 108 ("" 109)
-3. 109 ("" 110)
-4. 165 ("" 164)
-5. 213 ("" 211
-6. 380 ("" 377)
-7. 425 ("" 421)
-8. 551 ("" 546)
-9. 562 ("" 556)
-10. 646 ("" 639)
-11. 798 ("" 790)
-12. 800 ("" 791)
-13. 824 ("" 814)
-14. 843 ("" 832)
-15. 911 ("" 899)
+0. 39 (in Excel 41) x
+1. 108 ("" 110) x 
+2. 109 ("" 111) x
+3. 165 ("" 167) x
+4. 213 ("" 215) x
+5. 380 ("" 382) x
+6. 425 ("" 427) x
+7. 551 ("" 553) x
+8. 562 ("" 564) x
+9. 646 ("" 648) x
+10. 798 ("" 800) x
+11. 800 ("" 802) x 
+12. 824 ("" 826) x
+13. 843 ("" 845) x
+14. 911 ("" 913) x
 
 -> Sentiment was most probably able to be analysed, but it failed, since the language couldn't be detected
 
 If it works (insert down-top in excel)
+
+EDIT: worked and already inserted in the result file for excel only (csv is not updated)

@@ -11,10 +11,7 @@ natural_language_understanding = NaturalLanguageUnderstandingV1(
 
 natural_language_understanding.set_service_url('https://api.eu-gb.natural-language-understanding.watson.cloud.ibm.com/instances/17e005b5-ebde-489d-8483-60fbd1ea1cfd')
 
-for i in range(5,1000):
-    f = open("Amazon_Reviews" + str(i) + ".txt", "r")
-
-    text = f.readline()
-
-    sentiment_analysis = natural_language_understanding.analyze(text = text, features=Features(sentiment=SentimentOptions()), language="en").get_result()
-    print(json.dumps(sentiment_analysis, indent=2))
+f = open("Yelp_Reviews698" + ".txt", "r")
+text = f.readline()
+sentiment_analysis = natural_language_understanding.analyze(text = text, features=Features(sentiment=SentimentOptions()), language = "en").get_result()
+print(json.dumps(sentiment_analysis, indent=2))
