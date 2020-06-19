@@ -13,6 +13,8 @@ ds7 = "Uber_Ride_Reviews.csv"
 ds8 = "Uber_Ride_Reviews_sample.csv"
 ds9 = "Yelp_Reviews.csv"
 ds10 = "Yelp_Reviews_sample.csv"
+ds11 = "Negation_Dataset.csv"
+ds12 = "Bias_Dataset.csv"
 
 # Iterates through the Column and applies textblob.sentiment
 def sentiment_calc(Review):
@@ -38,11 +40,13 @@ def apply_analysis(ds):
 
 apply_analysis(ds1)
 # apply_analysis(ds2)
-apply_analysis(ds3)
+#apply_analysis(ds3)
 # apply_analysis(ds4)
-apply_analysis(ds5)
+#apply_analysis(ds5)
 # apply_analysis(ds6)
-apply_analysis(ds7)
+#apply_analysis(ds7)
 # apply_analysis(ds8)
-apply_analysis(ds9)
+#apply_analysis(ds9)
 # apply_analysis(ds10)
+apply_analysis(ds11)
+apply_analysis(ds12)

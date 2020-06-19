@@ -1,136 +1,143 @@
-Polarity,Review,Annotation Code,Polarity_result,Positive_result,Negative_result
--1,did not like at all,1,neg,0.45632430693130466,0.5436756930686952
--1, they never brought a salad we asked for,1,pos,0.7940175241467815,0.2059824758532195
--1,honeslty it didnt taste that fresh,1,pos,0.5625100470079729,0.4374899529920274
--1,would not go back,1,pos,0.5040793240084136,0.49592067599158635
--1,the poor batter to meat ratio made the chicken tenders very unsatisfying,1,neg,0.39128760736404633,0.6087123926359522
--1,it was not good,1,pos,0.500895894948668,0.4991041050513319
--1,real sushi lovers lets be honest  yama is not that good,1,pos,0.8520679903447088,0.14793200965529194
--1,i came back today since they relocated and still not impressed,1,pos,0.7258844191622335,0.274115580837767
--1,so dont go there if you are looking for good food,1,neg,0.08713620651974897,0.9128637934802504
--1,the burger had absolutely no flavor,1,neg,0.386944892935567,0.613055107064432
--1,the warm beer didnt help,1,pos,0.7575959045656985,0.2424040954343013
--1,soggy and not good,1,pos,0.5926172186235951,0.4073827813764054
--1,it was either too cold not enough flavor or just bad,1,neg,0.24386004639801007,0.75613995360199
--1,as for the mains also uninspired,1,neg,0.08501079925967178,0.9149892007403277
--1,the service was not up to par either,1,neg,0.40056321830445857,0.5994367816955413
--1,for a self proclaimed coffee cafe i was wildly disappointed,1,pos,0.810468035657737,0.18953196434226377
--1,this place is not quality sushi,1,pos,0.5413871709654526,0.45861282903454736
--1,never again will i be dining at this place,1,pos,0.6996623236380769,0.3003376763619234
--1,never going back,1,neg,0.49974937265500674,0.500250627344993
--1,the servers are not pleasant to deal with,1.3,pos,0.7519703824479244,0.2480296175520754
--1,there is nothing authentic about this place,1,pos,0.6598060885503966,0.3401939114496037
--1,the spaghetti is nothing special whatsoever,1,neg,0.044513437257411775,0.9554865627425876
--1,i dont recommend unless your car breaks down in front of it and you are starving,1,neg,0.1295408645105616,0.8704591354894381
--1,sauce was tasteless,1,pos,0.8581422254468445,0.1418577745531556
--1,definitely not worth the  i paid,1,pos,0.6827156729031084,0.31728432709689103
--1,the selection of food was not the best,1,pos,0.5998783685335045,0.4001216314664952
--1,i would not recommend this place,1,pos,0.5469143441947113,0.4530856558052889
--1,i will never go back to this place and will never ever recommended this place to anyone,1,pos,0.7497619162787194,0.25023808372128137
--1,it was extremely crumby and pretty tasteless,1,pos,0.5269127971237887,0.47308720287621087
--1,i will not be eating there again,1,neg,0.45743580482578755,0.5425641951742126
--1,i checked out this place a couple years ago and was not impressed,1,neg,0.4558563522116187,0.5441436477883808
--1,sorry i will not be getting food from here anytime soon ,1,pos,0.5190608572146026,0.4809391427853964
--1,my friend did not like his bloody mary,1,pos,0.5498962155519234,0.45010378444807664
--1,i will not return,1,pos,0.5486292282514571,0.45137077174854295
--1,not much flavor to them and very poorly constructed,1,neg,0.17621246428818588,0.8237875357118132
--1,dont go here,1,neg,0.08537447008949595,0.9146255299105039
--1,service was slow and not attentive,1,pos,0.9394280565854317,0.06057194341456744
--1,i probably wont be back to be honest,1,pos,0.6847060576916763,0.31529394230832314
--1,the chips that came out were dripping with grease and mostly not edible,1,pos,0.6001022342642005,0.3998977657358019
--1,i wasnt really impressed with strip steak,1,neg,0.48355219812393074,0.5164478018760699
--1,would not recommend to others,1,pos,0.675625472469866,0.3243745275301339
--1,the food is not tasty at all,1,pos,0.5908830639609044,0.4091169360390962
--1,unfortunately it was not good,1,neg,0.3568826784752439,0.6431173215247559
--1,bland and flavorless is a good way of describing the barely tepid meat,1,neg,0.07113725281175724,0.9288627471882415
--1,no one at the table thought the food was above average or worth the wait that we had for it,1,pos,0.6169016254425275,0.38309837455747187
--1,i have never had such bland food which surprised me considering the article we read focused so much on their spices and flavor,1,neg,0.17549791447483903,0.8245020855251608
--1,this place deserves no stars,1,pos,0.7547904251140592,0.24520957488594097
--1,highly unprofessional and rude to a loyal patron,1,pos,0.9372875354107653,0.06271246458923543
--1,im not impressed with the concept or the food,1,pos,0.5488355365379268,0.4511644634620732
--1,this place is disgusting,1,neg,0.3938334611534251,0.6061665388465747
--1,not good by any stretch of the imagination,1,neg,0.48551553878733106,0.5144844612126698
--1,i was very disappointed,1,pos,0.6632013230155404,0.33679867698445953
--1,it wasnt busy at all and now we know why,1,neg,0.45949660920911967,0.5405033907908809
--1,drivers accept never show,1,neg,0.42840498575015284,0.5715950142498469
--1,the company unprofessional period,1,pos,0.7612326524523215,0.23876734754767942
--1,i am so angery at this and will never shop their chothes anymore,1,pos,0.7750442936400438,0.22495570635995643
--1,why this place is so popular i will never understand,1,pos,0.5730165067662604,0.4269834932337396
--1,the rooms are not worth the money,1,pos,0.5563813754095697,0.4436186245904297
--1,they do not keep to a high standard of service,1,pos,0.5172717529876162,0.48272824701238354
--1,i had great expectations that were sadly not met for the price of the room,1,pos,0.5797095415707245,0.4202904584292758
--1,i only had pho so i cant judge the rest of the food but the pho was the worst ive ever had,1,neg,0.23899236833311363,0.7610076316668866
--1,stay away nothing good comes out this place,1,neg,0.48362778249544325,0.5163722175045561
--1,there were six employees behind the counter and one customer waiting for their sandwich to be made and i was the only person in line and couldnt get a single person to take my order,1,neg,0.30102375979658375,0.6989762402034183
--1,i dont suggest going here for food ever maybe for the drink specials and hookah but nothing else,1,neg,0.008829530210360243,0.9911704697896377
-1,i could not be happier,1,pos,0.5566343465744421,0.4433656534255572
-1,the salad had just the right amount of sauce to not over power the scallop,1,pos,0.9777019108650079,0.022298089134991084
-1,restaurant is always full but never a wait,1,neg,0.47877704356705403,0.521222956432946
-1,this is an unbelievable bargain,1,neg,0.3121250102736916,0.6878749897263091
-1,you cant go wrong with any of the food here,1,neg,0.37281255851911976,0.6271874414808807
-1,you cant beat that,1,neg,0.46532724776332185,0.5346727522366779
-1,i didnt know pulled pork could be soooo delicious,1,pos,0.8109855948566538,0.18901440514334772
-1,couldnt ask for a more satisfying meal,1,pos,0.5863949008183635,0.41360509918163635
-1,it was just not a fun experience,1,pos,0.6143121670341901,0.3856878329658098
-1,i cant wait to go back,1,neg,0.4001600971624158,0.5998399028375841
-1,the black eyed peas and sweet potatoes unreal,1,pos,0.6156853297301669,0.3843146702698338
-1,get the pasta trio you wont regret it,1,pos,0.8492447662832501,0.1507552337167506
-1,no complaints whatsoever,1,neg,0.4910358565737053,0.5089641434262948
-1,this place never fails,1,neg,0.3205575368211228,0.6794424631788772
-1,slightly overpriced but not unreasonable for the quality and atmosphere,1,neg,0.20775321148871875,0.7922467885112816
-1,never had any experience with rudeness here or any other problem,1,neg,0.46141665014495997,0.5385833498550394
-1,the service is quick and its not very pricey,1,neg,0.29956997598056007,0.7004300240194405
-1,we took our friend visiting here for some soul food and merts did not disappoint,1,pos,0.8829646941318263,0.11703530586817315
--1,talking to the policeman didnt really help me,1.2,neg,0.31708226670758194,0.6829177332924175
--1,christians are not to be trusted,1.2,pos,0.7550334936241505,0.24496650637584994
--1,i got the gold standard a  burger and was kind of disappointed,1,neg,0.48496083087991215,0.515039169120089
--1,and the red curry had so much bamboo shoots and wasnt very tasty to me,1,pos,0.9683574863361583,0.031642513663840556
--1,i hate to disagree with my fellow yelpers but my husband and i were so disappointed with this place,1,pos,0.8635571818107832,0.13644281818921603
--1,this is not well manufactured,1,pos,0.5052236983920694,0.49477630160793
--1,this software is not user friendly,1,pos,0.6392704876229391,0.36072951237706175
--1,the book itself is not much use other than as a list of problems,1,pos,0.5858260426368495,0.4141739573631518
-1,not too expensive and just as good as the rest of the tools that are over priced,1,pos,0.557842977728261,0.44215702227173836
--1,i didnt really like the book,1,neg,0.48782981552636134,0.5121701844736384
-1,i couldnt put this down and laughed smiled and even got tears,1,neg,0.07782558305629153,0.922174416943708
--1,the squiggler fell apart at second use with no way to put the prongs back into the base,1,pos,0.5587060956710809,0.44129390432891974
-1,contrary to other review i found my cell phone holder to be of very good quality and have used it for a long time now with no problems whatsoever,1,neg,0.059418113764221146,0.9405818862357793
--1,i would not recommend this book to anyone,1,neg,0.46685502000226536,0.5331449799977346
--1,i cant believe i bought this way overpriced radio,1,neg,0.4315812323719018,0.5684187676280973
-1,you cant go wrong with this microphone,1,neg,0.4376209128829396,0.5623790871170599
-1,i cant live without my new apple watch,"1,2,3",pos,0.6867229328689104,0.3132770671310897
-1,this shirt cant be any better,1,pos,0.5517124020641337,0.448287597935867
--1,i wouldnt recommend this ralph lauren shoes to anyone,1.2,pos,0.6286428684013363,0.37135713159866324
--1,nobody should have to waste time on this game,1,neg,0.10125144755372835,0.8987485524462715
--1,this doctor cant even diagnose a flu,1.2,neg,0.15257688899447008,0.8474231110055307
--1,i cant believe i had to pay for this,1,neg,0.47541724131567853,0.524582758684322
--1,this trump doesnt sound as good as it should,1.3,pos,0.6265140650479161,0.37348593495208277
-1,nothing can trump this beautiful table,1.3,neg,0.4349805099378768,0.5650194900621235
--1,my steak wasnt rare but cold,1.3,pos,0.8507961049188383,0.14920389508116114
-1,this cup cant be any better,1,neg,0.4019283899545275,0.5980716100454728
--1,this is not what i paid for,1,neg,0.4766355650004721,0.523364434999528
--1,i havent even read 5 pages and had to stop this boring book,1,neg,0.17120972819010913,0.8287902718098912
--1,bradley cooper cant even act,1.2,neg,0.15257503610975434,0.8474249638902457
--1,i cant believe that i paid for such a low quality product,1,neg,0.38869850978901876,0.6113014902109799
--1,this movie should not be nominated for an oscar,1,pos,0.6921394875524239,0.3078605124475756
--1,that gucci bag isnt even worth half of its price,1.2,pos,0.6479822124778731,0.3520177875221277
--1,id rather not eat here any time soon,1,pos,0.542686053910856,0.45731394608914455
--1,the new samsung galaxy is not worth it,1,pos,0.696954232879242,0.30304576712075826
--1,angelina jolie couldnt save this tragedy of a movie,1.2,neg,0.03794305531228674,0.9620569446877134
--1,the intern cant even print copies,1.2,neg,0.3113020296392244,0.6886979703607777
--1,the banker couldnt even tell me why my account has been frozen,1.2,pos,0.8147313164656981,0.18526868353430218
--1,the nurse couldnt even bandage my wound,1.2,pos,0.7070744656477742,0.2929255343522253
--1,i wish i had not found this place at all,1,pos,0.5653548475872565,0.43464515241274365
-1,this phone cant be any more innovative,1,pos,0.6960379572357251,0.30396204276427585
-1,the cleaning service cant be any more meticulous and clean,1,pos,0.6092655849131278,0.3907344150868734
-1,my friend didnt lie when he told me i would love this place,1,pos,0.763829132515375,0.23617086748462593
-1,this is usually not my taste but surprisingly i did like it,1,pos,0.5860095857844171,0.4139904142155826
-1,the banker recommended me to not buy this stock and saved me a ton of money,1.2,pos,0.5794757933665948,0.4205242066334025
-1,this bar didnt disappoint me,1.3,pos,0.5604713764818574,0.4395286235181427
-1,the food wasnt too cold or too warm which left me satisfied,1,pos,0.8484559774275465,0.1515440225724533
-1,i cant believe how pleasant the cashier was,1.2,pos,0.7923694757133639,0.20763052428663611
-1,i couldnt express how thankful i was for the policemans help,1,pos,0.609001685830015,0.3909983141699859
--1,i wouldnt enter this restaurant even if someone pays me for it,1,pos,0.746281889003916,0.25371811099608443
-1,i cannot believe that they arent sold out every day,1,neg,0.47581596742324184,0.5241840325767567
-1,i wouldnt trade my apple watch for anything else in this world,"1,2,3",pos,0.753620444945595,0.24637955505440431
-1,the restaurant isnt bad like others try to make it out to be,1,pos,0.5019008669753631,0.49809913302463704
-1,chris hemsworth cant be any more charming than in this movie,1.2,pos,0.5114215138256785,0.48857848617432137
+Polarity,Review,Polarity_result,Positive_result,Negative_result
+-1,highly unprofessional and rude to a loyal patron,pos,0.9372875354107653,0.06271246458923543
+-1,it wasnt busy at all and now we know why,neg,0.45949660920911967,0.5405033907908809
+-1,the nurse couldnt even bandage my wound,pos,0.7070744656477742,0.2929255343522253
+-1,and the red curry had so much bamboo shoots and wasnt very tasty to me,pos,0.9683574863361583,0.031642513663840556
+1,this phone cant be any more innovative,pos,0.6960379572357251,0.30396204276427585
+-1,my friend did not like his bloody mary,pos,0.5498962155519234,0.45010378444807664
+-1,never going back,neg,0.49974937265500674,0.500250627344993
+-1, they never brought a salad we asked for,pos,0.7940175241467815,0.2059824758532195
+-1,this doctor cant even diagnose a flu,neg,0.15257688899447008,0.8474231110055307
+-1,would not recommend to others,pos,0.675625472469866,0.3243745275301339
+-1,i hate to disagree with my fellow yelpers but my husband and i were so disappointed with this place,pos,0.8635571818107832,0.13644281818921603
+1,not too expensive and just as good as the rest of the tools that are over priced,pos,0.557842977728261,0.44215702227173836
+-1,for a self proclaimed coffee cafe i was wildly disappointed,pos,0.810468035657737,0.18953196434226377
+1,i didnt know pulled pork could be soooo delicious,pos,0.8109855948566538,0.18901440514334772
+-1,nobody should have to waste time on this game,neg,0.10125144755372835,0.8987485524462715
+-1,i am so angery at this and will never shop their chothes anymore,pos,0.7750442936400438,0.22495570635995643
+1,i cannot believe that they arent sold out every day,neg,0.47581596742324184,0.5241840325767567
+-1,angelina jolie couldnt save this tragedy of a movie,neg,0.03794305531228674,0.9620569446877134
+-1,the new samsung galaxy is not worth it,pos,0.696954232879242,0.30304576712075826
+-1,sauce was tasteless,pos,0.8581422254468445,0.1418577745531556
+-1,i came back today since they relocated and still not impressed,pos,0.7258844191622335,0.274115580837767
+-1,i havent even read 5 pages and had to stop this boring book,neg,0.17120972819010913,0.8287902718098912
+-1,the spaghetti is nothing special whatsoever,neg,0.044513437257411775,0.9554865627425876
+-1,it was not good,pos,0.500895894948668,0.4991041050513319
+-1,the poor batter to meat ratio made the chicken tenders very unsatisfying,neg,0.39128760736404633,0.6087123926359522
+-1,i would not recommend this book to anyone,neg,0.46685502000226536,0.5331449799977346
+-1,the chips that came out were dripping with grease and mostly not edible,pos,0.6001022342642005,0.3998977657358019
+-1,i probably wont be back to be honest,pos,0.6847060576916763,0.31529394230832314
+-1,stay away nothing good comes out this place,neg,0.48362778249544325,0.5163722175045561
+-1,i dont suggest going here for food ever maybe for the drink specials and hookah but nothing else,neg,0.008829530210360243,0.9911704697896377
+1,never had any experience with rudeness here or any other problem,neg,0.46141665014495997,0.5385833498550394
+-1,i dont recommend unless your car breaks down in front of it and you are starving,neg,0.1295408645105616,0.8704591354894381
+-1,i was very disappointed,pos,0.6632013230155404,0.33679867698445953
+-1,not good by any stretch of the imagination,neg,0.48551553878733106,0.5144844612126698
+-1,this place deserves no stars,pos,0.7547904251140592,0.24520957488594097
+-1,i got the gold standard a  burger and was kind of disappointed,neg,0.48496083087991215,0.515039169120089
+-1,this software is not user friendly,pos,0.6392704876229391,0.36072951237706175
+-1,id rather not eat here any time soon,pos,0.542686053910856,0.45731394608914455
+1,the banker recommended me to not buy this stock and saved me a ton of money,pos,0.5794757933665948,0.4205242066334025
+1,i could not be happier,pos,0.5566343465744421,0.4433656534255572
+-1,the selection of food was not the best,pos,0.5998783685335045,0.4001216314664952
+1,the food wasnt too cold or too warm which left me satisfied,pos,0.8484559774275465,0.1515440225724533
+-1,the squiggler fell apart at second use with no way to put the prongs back into the base,pos,0.5587060956710809,0.44129390432891974
+1,this cup cant be any better,neg,0.4019283899545275,0.5980716100454728
+-1,im not impressed with the concept or the food,pos,0.5488355365379268,0.4511644634620732
+-1,this place is disgusting,neg,0.3938334611534251,0.6061665388465747
+1,restaurant is always full but never a wait,neg,0.47877704356705403,0.521222956432946
+1,slightly overpriced but not unreasonable for the quality and atmosphere,neg,0.20775321148871875,0.7922467885112816
+-1,soggy and not good,pos,0.5926172186235951,0.4073827813764054
+-1,never again will i be dining at this place,pos,0.6996623236380769,0.3003376763619234
+-1,the service was not up to par either,neg,0.40056321830445857,0.5994367816955413
+1,i couldnt put this down and laughed smiled and even got tears,neg,0.07782558305629153,0.922174416943708
+1,the cleaning service cant be any more meticulous and clean,pos,0.6092655849131278,0.3907344150868734
+-1,real sushi lovers lets be honest  yama is not that good,pos,0.8520679903447088,0.14793200965529194
+1,my friend didnt lie when he told me i would love this place,pos,0.763829132515375,0.23617086748462593
+1,this shirt cant be any better,pos,0.5517124020641337,0.448287597935867
+-1,i wouldnt enter this restaurant even if someone pays me for it,pos,0.746281889003916,0.25371811099608443
+-1,talking to the policeman didnt really help me,neg,0.31708226670758194,0.6829177332924175
+-1,i will not return,pos,0.5486292282514571,0.45137077174854295
+-1,the food is not tasty at all,pos,0.5908830639609044,0.4091169360390962
+-1,they do not keep to a high standard of service,pos,0.5172717529876162,0.48272824701238354
+-1,i wasnt really impressed with strip steak,neg,0.48355219812393074,0.5164478018760699
+1,chris hemsworth cant be any more charming than in this movie,pos,0.5114215138256785,0.48857848617432137
+-1,i checked out this place a couple years ago and was not impressed,neg,0.4558563522116187,0.5441436477883808
+1,contrary to other review i found my cell phone holder to be of very good quality and have used it for a long time now with no problems whatsoever,neg,0.059418113764221146,0.9405818862357793
+-1,sorry i will not be getting food from here anytime soon ,pos,0.5190608572146026,0.4809391427853964
+1,couldnt ask for a more satisfying meal,pos,0.5863949008183635,0.41360509918163635
+-1,this is not well manufactured,pos,0.5052236983920694,0.49477630160793
+-1,the servers are not pleasant to deal with,pos,0.7519703824479244,0.2480296175520754
+-1,no one at the table thought the food was above average or worth the wait that we had for it,pos,0.6169016254425275,0.38309837455747187
+-1,the warm beer didnt help,pos,0.7575959045656985,0.2424040954343013
+1,it was just not a fun experience,pos,0.6143121670341901,0.3856878329658098
+-1,there is nothing authentic about this place,pos,0.6598060885503966,0.3401939114496037
+1,we took our friend visiting here for some soul food and merts did not disappoint,pos,0.8829646941318263,0.11703530586817315
+-1,the intern cant even print copies,neg,0.3113020296392244,0.6886979703607777
+-1,honeslty it didnt taste that fresh,pos,0.5625100470079729,0.4374899529920274
+1,i cant wait to go back,neg,0.4001600971624158,0.5998399028375841
+-1,i wish i had not found this place at all,pos,0.5653548475872565,0.43464515241274365
+1,this bar didnt disappoint me,pos,0.5604713764818574,0.4395286235181427
+-1,so dont go there if you are looking for good food,neg,0.08713620651974897,0.9128637934802504
+1,get the pasta trio you wont regret it,pos,0.8492447662832501,0.1507552337167506
+-1,the burger had absolutely no flavor,neg,0.386944892935567,0.613055107064432
+-1,i cant believe that i paid for such a low quality product,neg,0.38869850978901876,0.6113014902109799
+1,you cant go wrong with any of the food here,neg,0.37281255851911976,0.6271874414808807
+-1,did not like at all,neg,0.45632430693130466,0.5436756930686952
+-1,unfortunately it was not good,neg,0.3568826784752439,0.6431173215247559
+1,i wouldnt trade my apple watch for anything else in this world,pos,0.753620444945595,0.24637955505440431
+-1,definitely not worth the  i paid,pos,0.6827156729031084,0.31728432709689103
+1,this is usually not my taste but surprisingly i did like it,pos,0.5860095857844171,0.4139904142155826
+-1,not much flavor to them and very poorly constructed,neg,0.17621246428818588,0.8237875357118132
+-1,the company unprofessional period,pos,0.7612326524523215,0.23876734754767942
+-1,dont go here,neg,0.08537447008949595,0.9146255299105039
+-1,i cant believe i bought this way overpriced radio,neg,0.4315812323719018,0.5684187676280973
+-1,i had great expectations that were sadly not met for the price of the room,pos,0.5797095415707245,0.4202904584292758
+-1,i will never go back to this place and will never ever recommended this place to anyone,pos,0.7497619162787194,0.25023808372128137
+-1,i would not recommend this place,pos,0.5469143441947113,0.4530856558052889
+-1,my steak wasnt rare but cold,pos,0.8507961049188383,0.14920389508116114
+-1,i only had pho so i cant judge the rest of the food but the pho was the worst ive ever had,neg,0.23899236833311363,0.7610076316668866
+-1,the book itself is not much use other than as a list of problems,pos,0.5858260426368495,0.4141739573631518
+-1,i will not be eating there again,neg,0.45743580482578755,0.5425641951742126
+1,no complaints whatsoever,neg,0.4910358565737053,0.5089641434262948
+-1,i wouldnt recommend this ralph lauren shoes to anyone,pos,0.6286428684013363,0.37135713159866324
+-1,would not go back,pos,0.5040793240084136,0.49592067599158635
+-1,drivers accept never show,neg,0.42840498575015284,0.5715950142498469
+1,you cant beat that,neg,0.46532724776332185,0.5346727522366779
+1,this is an unbelievable bargain,neg,0.3121250102736916,0.6878749897263091
+1,you cant go wrong with this microphone,neg,0.4376209128829396,0.5623790871170599
+1,the restaurant isnt bad like others try to make it out to be,pos,0.5019008669753631,0.49809913302463704
+-1,the banker couldnt even tell me why my account has been frozen,pos,0.8147313164656981,0.18526868353430218
+-1,the rooms are not worth the money,pos,0.5563813754095697,0.4436186245904297
+-1,why this place is so popular i will never understand,pos,0.5730165067662604,0.4269834932337396
+-1,it was either too cold not enough flavor or just bad,neg,0.24386004639801007,0.75613995360199
+-1,i have never had such bland food which surprised me considering the article we read focused so much on their spices and flavor,neg,0.17549791447483903,0.8245020855251608
+-1,this place is not quality sushi,pos,0.5413871709654526,0.45861282903454736
+-1,this movie should not be nominated for an oscar,pos,0.6921394875524239,0.3078605124475756
+-1,i cant believe i had to pay for this,neg,0.47541724131567853,0.524582758684322
+-1,this is not what i paid for,neg,0.4766355650004721,0.523364434999528
+1,the service is quick and its not very pricey,neg,0.29956997598056007,0.7004300240194405
+-1,the stewardess was unattentive,pos,0.6170595384152119,0.38294046158478834
+-1,service was slow and not attentive,pos,0.9394280565854317,0.06057194341456744
+1,i couldnt express how thankful i was for the policemans help,pos,0.609001685830015,0.3909983141699859
+1,the salad had just the right amount of sauce to not over power the scallop,pos,0.9777019108650079,0.022298089134991084
+-1,this trump doesnt sound as good as it should,pos,0.6265140650479161,0.37348593495208277
+1,this place never fails,neg,0.3205575368211228,0.6794424631788772
+-1,donald trump doesnt seem to be that truthful,pos,0.6860000704000503,0.3139999295999507
+-1,the steward was unattentive,neg,0.4915658920217743,0.5084341079782255
+-1,as for the mains also uninspired,neg,0.08501079925967178,0.9149892007403277
+-1,the german banker had an inconvenient way of explaining,pos,0.8319670891103483,0.16803291088965164
+1,i cant believe how pleasant the cashier was,pos,0.7923694757133639,0.20763052428663611
+1,this apple product is a good for nothing,neg,0.38871362774137996,0.6112863722586201
+-1,christians are not to be trusted,pos,0.7550334936241505,0.24496650637584994
+1,im disappointed with the porsche model,neg,0.4167817522853746,0.5832182477146242
+1,the black eyed peas and sweet potatoes unreal,pos,0.6156853297301669,0.3843146702698338
+-1,bland and flavorless is a good way of describing the barely tepid meat,neg,0.07113725281175724,0.9288627471882415
+-1,it was extremely crumby and pretty tasteless,pos,0.5269127971237887,0.47308720287621087
+-1,i didnt really like the book,neg,0.48782981552636134,0.5121701844736384
+-1,bradley cooper cant even act,neg,0.15257503610975434,0.8474249638902457
+-1,the real disappointment was our waiter,pos,0.6099496820380853,0.39005031796191564
+1,nothing can trump this beautiful table,neg,0.4349805099378768,0.5650194900621235
+-1,uninformative european tour guide,pos,0.7040816326530621,0.2959183673469383
+1,i cant live without my new apple watch,pos,0.6867229328689104,0.3132770671310897
+-1,there were six employees behind the counter and one customer waiting for their sandwich to be made and i was the only person in line and couldnt get a single person to take my order,neg,0.30102375979658375,0.6989762402034183

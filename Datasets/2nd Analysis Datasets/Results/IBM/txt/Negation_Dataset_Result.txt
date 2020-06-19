@@ -1,12 +1,12 @@
 {
   "usage": {
     "text_units": 1,
-    "text_characters": 19,
+    "text_characters": 48,
     "features": 1
   },
   "sentiment": {
     "document": {
-      "score": -0.841433,
+      "score": -0.983665,
       "label": "negative"
     }
   },
@@ -20,21 +20,7 @@
   },
   "sentiment": {
     "document": {
-      "score": 0,
-      "label": "neutral"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 34,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.568189,
+      "score": -0.5738,
       "label": "negative"
     }
   },
@@ -43,12 +29,12 @@
 {
   "usage": {
     "text_units": 1,
-    "text_characters": 17,
+    "text_characters": 39,
     "features": 1
   },
   "sentiment": {
     "document": {
-      "score": -0.603759,
+      "score": -0.851984,
       "label": "negative"
     }
   },
@@ -57,293 +43,13 @@
 {
   "usage": {
     "text_units": 1,
-    "text_characters": 72,
+    "text_characters": 70,
     "features": 1
   },
   "sentiment": {
     "document": {
-      "score": -0.999398,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 15,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.93333,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 55,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": 0.626038,
+      "score": 0.845646,
       "label": "positive"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 62,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.962923,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 49,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": 0.354571,
-      "label": "positive"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 35,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.861455,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 24,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.790068,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 18,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.991971,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 52,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.966856,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 32,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.993495,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 36,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.890543,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 59,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.981512,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 31,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.969416,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 42,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.848558,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 16,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.847186,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 41,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.837948,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 43,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.797282,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 43,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.966339,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 80,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.958647,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 19,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.92972,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 32,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.943091,
-      "label": "negative"
     }
   },
   "language": "en"
@@ -356,91 +62,7 @@
   },
   "sentiment": {
     "document": {
-      "score": -0.794348,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 32,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.858616,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 87,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.794057,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 44,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.978494,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 32,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.792467,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 65,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.95063,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 56,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.911311,
+      "score": -0.787617,
       "label": "negative"
     }
   },
@@ -463,12 +85,138 @@
 {
   "usage": {
     "text_units": 1,
-    "text_characters": 17,
+    "text_characters": 16,
     "features": 1
   },
   "sentiment": {
     "document": {
-      "score": -0.747157,
+      "score": -0.847186,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 40,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 36,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.696367,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 29,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.692193,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 99,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.994677,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 80,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.353756,
+      "label": "positive"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 59,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.981512,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 49,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.709469,
+      "label": "positive"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 45,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.949114,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 64,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.914802,
       "label": "negative"
     }
   },
@@ -482,7 +230,7 @@
   },
   "sentiment": {
     "document": {
-      "score": -0.985361,
+      "score": -0.919558,
       "label": "negative"
     }
   },
@@ -491,12 +239,12 @@
 {
   "usage": {
     "text_units": 1,
-    "text_characters": 12,
+    "text_characters": 51,
     "features": 1
   },
   "sentiment": {
     "document": {
-      "score": -0.601057,
+      "score": -0.987595,
       "label": "negative"
     }
   },
@@ -505,12 +253,12 @@
 {
   "usage": {
     "text_units": 1,
-    "text_characters": 34,
+    "text_characters": 38,
     "features": 1
   },
   "sentiment": {
     "document": {
-      "score": -0.94691,
+      "score": -0.941964,
       "label": "negative"
     }
   },
@@ -519,12 +267,96 @@
 {
   "usage": {
     "text_units": 1,
-    "text_characters": 36,
+    "text_characters": 19,
     "features": 1
   },
   "sentiment": {
     "document": {
-      "score": -0.625824,
+      "score": -0.92972,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 62,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.962923,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 59,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.957944,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 43,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.966339,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 15,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.93333,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 72,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.999398,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 41,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.805168,
       "label": "negative"
     }
   },
@@ -547,12 +379,180 @@
 {
   "usage": {
     "text_units": 1,
-    "text_characters": 41,
+    "text_characters": 36,
     "features": 1
   },
   "sentiment": {
     "document": {
-      "score": 0.304655,
+      "score": -0.625824,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 43,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.851212,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 96,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.75279,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 64,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.853805,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 80,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.958647,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 23,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.992527,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 42,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.91157,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 28,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.74488,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 62,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.972471,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 34,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.846943,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 36,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.879761,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 75,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.671669,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 22,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.299187,
       "label": "positive"
     }
   },
@@ -561,12 +561,12 @@
 {
   "usage": {
     "text_units": 1,
-    "text_characters": 29,
+    "text_characters": 38,
     "features": 1
   },
   "sentiment": {
     "document": {
-      "score": -0.692193,
+      "score": -0.794348,
       "label": "negative"
     }
   },
@@ -575,12 +575,12 @@
 {
   "usage": {
     "text_units": 1,
-    "text_characters": 28,
+    "text_characters": 59,
     "features": 1
   },
   "sentiment": {
     "document": {
-      "score": -0.905722,
+      "score": -0.830633,
       "label": "negative"
     }
   },
@@ -589,13 +589,13 @@
 {
   "usage": {
     "text_units": 1,
-    "text_characters": 29,
+    "text_characters": 87,
     "features": 1
   },
   "sentiment": {
     "document": {
-      "score": -0.991478,
-      "label": "negative"
+      "score": 0,
+      "label": "neutral"
     }
   },
   "language": "en"
@@ -603,68 +603,12 @@
 {
   "usage": {
     "text_units": 1,
-    "text_characters": 70,
+    "text_characters": 27,
     "features": 1
   },
   "sentiment": {
     "document": {
-      "score": -0.992255,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 91,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.721735,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 126,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.808353,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 28,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.744881,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 48,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.983665,
+      "score": -0.770219,
       "label": "negative"
     }
   },
@@ -706,386 +650,8 @@
   },
   "sentiment": {
     "document": {
-      "score": -0.91157,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 23,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.992527,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 40,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.5738,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 25,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.909564,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 33,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.872398,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 64,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.914802,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 52,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.951254,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 33,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.928773,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 46,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.748077,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 74,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.798021,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 90,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.942784,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 43,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.851212,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 181,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.780677,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 96,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.75279,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 22,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": 0.299187,
-      "label": "positive"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 74,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": 0,
-      "label": "neutral"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 42,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
       "score": 0.378457,
       "label": "positive"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 31,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": 0.650697,
-      "label": "positive"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 43,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.869298,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 18,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.612814,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 49,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": 0.709469,
-      "label": "positive"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 38,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.843582,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 32,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.844234,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 22,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": 0.561537,
-      "label": "positive"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 45,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": 0.858235,
-      "label": "positive"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 37,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.404873,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 24,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.628376,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 22,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.760076,
-      "label": "negative"
     }
   },
   "language": "en"
@@ -1107,12 +673,12 @@
 {
   "usage": {
     "text_units": 1,
-    "text_characters": 64,
+    "text_characters": 18,
     "features": 1
   },
   "sentiment": {
     "document": {
-      "score": -0.853805,
+      "score": -0.991971,
       "label": "negative"
     }
   },
@@ -1121,12 +687,12 @@
 {
   "usage": {
     "text_units": 1,
-    "text_characters": 44,
+    "text_characters": 42,
     "features": 1
   },
   "sentiment": {
     "document": {
-      "score": -0.935059,
+      "score": -0.848558,
       "label": "negative"
     }
   },
@@ -1135,152 +701,12 @@
 {
   "usage": {
     "text_units": 1,
-    "text_characters": 80,
+    "text_characters": 36,
     "features": 1
   },
   "sentiment": {
     "document": {
-      "score": 0.902931,
-      "label": "positive"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 45,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.876833,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 32,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.702473,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 62,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.972471,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 70,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": 0.845646,
-      "label": "positive"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 99,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.994677,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 29,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.780357,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 34,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.846943,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 64,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.759182,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 80,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": 0.353756,
-      "label": "positive"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 28,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.767728,
+      "score": -0.890543,
       "label": "negative"
     }
   },
@@ -1303,412 +729,6 @@
 {
   "usage": {
     "text_units": 1,
-    "text_characters": 87,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": 0,
-      "label": "neutral"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 145,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": 0.433177,
-      "label": "positive"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 41,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.805168,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 49,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.940462,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 38,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.881461,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 38,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.857695,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 29,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.696467,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 53,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.720995,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 45,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.949114,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 36,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.696367,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 36,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.891037,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 44,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.840194,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 38,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.828532,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 28,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.783216,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 27,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.770219,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 27,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": 0,
-      "label": "neutral"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 59,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.957944,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 28,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.855343,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 57,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.941179,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 47,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.879778,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 48,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.921529,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 36,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.879761,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 38,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.941964,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 51,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.987595,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 33,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.644714,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 62,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.928198,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 39,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.851984,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 40,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.917949,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 38,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.787617,
-      "label": "negative"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
     "text_characters": 58,
     "features": 1
   },
@@ -1716,6 +736,20 @@
     "document": {
       "score": -0.499702,
       "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 55,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.626038,
+      "label": "positive"
     }
   },
   "language": "en"
@@ -1737,12 +771,96 @@
 {
   "usage": {
     "text_units": 1,
-    "text_characters": 59,
+    "text_characters": 29,
     "features": 1
   },
   "sentiment": {
     "document": {
-      "score": 0.773725,
+      "score": -0.696467,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 62,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.413944,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 45,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.876833,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 17,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.747157,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 28,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.905722,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 46,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.748077,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 41,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.304655,
       "label": "positive"
     }
   },
@@ -1751,12 +869,222 @@
 {
   "usage": {
     "text_units": 1,
-    "text_characters": 75,
+    "text_characters": 60,
     "features": 1
   },
   "sentiment": {
     "document": {
-      "score": -0.671668,
+      "score": -0.637211,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 65,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.95063,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 145,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.433177,
+      "label": "positive"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 56,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.911311,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 38,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.843581,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 29,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.780357,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 41,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.837948,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 91,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.721735,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 24,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.790068,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 32,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.844234,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 43,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.797282,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 80,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.902931,
+      "label": "positive"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 33,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.644714,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 34,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.568189,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 22,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.561537,
+      "label": "positive"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 40,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.917949,
       "label": "negative"
     }
   },
@@ -1779,12 +1107,54 @@
 {
   "usage": {
     "text_units": 1,
-    "text_characters": 59,
+    "text_characters": 49,
     "features": 1
   },
   "sentiment": {
     "document": {
-      "score": -0.830633,
+      "score": 0.354571,
+      "label": "positive"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 37,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.404873,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 35,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.861455,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 57,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.941179,
       "label": "negative"
     }
   },
@@ -1798,7 +1168,7 @@
   },
   "sentiment": {
     "document": {
-      "score": -0.53537,
+      "score": -0.869298,
       "label": "negative"
     }
   },
@@ -1807,26 +1177,12 @@
 {
   "usage": {
     "text_units": 1,
-    "text_characters": 60,
+    "text_characters": 19,
     "features": 1
   },
   "sentiment": {
     "document": {
-      "score": 0.931239,
-      "label": "positive"
-    }
-  },
-  "language": "en"
-}
-{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 62,
-    "features": 1
-  },
-  "sentiment": {
-    "document": {
-      "score": -0.413944,
+      "score": -0.841433,
       "label": "negative"
     }
   },
@@ -1835,12 +1191,12 @@
 {
   "usage": {
     "text_units": 1,
-    "text_characters": 51,
+    "text_characters": 29,
     "features": 1
   },
   "sentiment": {
     "document": {
-      "score": -0.919558,
+      "score": -0.991478,
       "label": "negative"
     }
   },
@@ -1863,6 +1219,286 @@
 {
   "usage": {
     "text_units": 1,
+    "text_characters": 32,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.943091,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 59,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.773725,
+      "label": "positive"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 51,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.985361,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 33,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.872398,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 12,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.601057,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 49,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.940462,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 74,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.79802,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 87,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.794057,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 32,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.858616,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 28,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.783216,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 90,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.942784,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 64,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.759182,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 32,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.792467,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 24,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.628376,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 53,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.720995,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 17,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.603759,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 25,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.909564,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 18,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.612814,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 31,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.650697,
+      "label": "positive"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 38,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.881461,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
     "text_characters": 60,
     "features": 1
   },
@@ -1877,12 +1513,474 @@
 {
   "usage": {
     "text_units": 1,
+    "text_characters": 62,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.928198,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 33,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.928773,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 52,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.951254,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 52,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.966856,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 126,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.808353,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 31,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.969416,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 47,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.879778,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 36,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.891037,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 27,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 44,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.935059,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 30,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 34,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.94691,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
     "text_characters": 60,
     "features": 1
   },
   "sentiment": {
     "document": {
-      "score": -0.637211,
+      "score": 0.931239,
+      "label": "positive"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 74,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 44,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.840194,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 22,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.760076,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 44,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.814823,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 27,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 32,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.993495,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 55,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.590964,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 43,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.535369,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 40,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.939123,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 32,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.702473,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 38,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.99149,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 45,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.858235,
+      "label": "positive"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 70,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.992255,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 44,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.978494,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 28,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.767728,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 28,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.855343,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 38,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.928668,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 38,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.828532,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 33,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 38,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.857695,
+      "label": "negative"
+    }
+  },
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 181,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.780677,
       "label": "negative"
     }
   },

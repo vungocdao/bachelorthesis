@@ -12,7 +12,7 @@ ds8 = "Ambiguity_Dataset"
 def ReviewToTxt(file):
     read_file = pd.read_csv(file + ".csv")
     read_file['Review_new'] = read_file['Review'].astype(str)
-    read_file2 = read_file['Review_new']
+    read_file2 = read_file['Review_new'] + "."
     read_file2.to_csv(file + ".txt", sep='\n', index = None)
 
 #ReviewToTxt(ds1)
@@ -22,4 +22,4 @@ def ReviewToTxt(file):
 #ReviewToTxt(ds5)
 ReviewToTxt(ds6)
 ReviewToTxt(ds7)
-ReviewToTxt(ds8)
+#ReviewToTxt(ds8)

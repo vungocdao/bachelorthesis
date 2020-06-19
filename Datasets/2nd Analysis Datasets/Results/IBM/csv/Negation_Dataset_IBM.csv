@@ -1,136 +1,143 @@
-usage/text_units,usage/text_characters,usage/features,sentiment/document/score,sentiment/document/label,language
-1,19,1,-0.841433,negative,en
-1,40,1,0,neutral,en
-1,34,1,-0.568189,negative,en
-1,17,1,-0.603759,negative,en
-1,72,1,-0.999398,negative,en
-1,15,1,-0.93333,negative,en
-1,55,1,0.626038,positive,en
-1,62,1,-0.962923,negative,en
-1,49,1,0.354571,positive,en
-1,35,1,-0.861455,negative,en
-1,24,1,-0.790068,negative,en
-1,18,1,-0.991971,negative,en
-1,52,1,-0.966856,negative,en
-1,32,1,-0.993495,negative,en
-1,36,1,-0.890543,negative,en
-1,59,1,-0.981512,negative,en
-1,31,1,-0.969416,negative,en
-1,42,1,-0.848558,negative,en
-1,16,1,-0.847186,negative,en
-1,41,1,-0.837948,negative,en
-1,43,1,-0.797282,negative,en
-1,43,1,-0.966339,negative,en
-1,80,1,-0.958647,negative,en
-1,19,1,-0.92972,negative,en
-1,32,1,-0.943091,negative,en
-1,38,1,-0.794348,negative,en
-1,32,1,-0.858616,negative,en
-1,87,1,-0.794057,negative,en
-1,44,1,-0.978494,negative,en
-1,32,1,-0.792467,negative,en
-1,65,1,-0.95063,negative,en
-1,56,1,-0.911311,negative,en
-1,38,1,-0.922507,negative,en
-1,17,1,-0.747157,negative,en
-1,51,1,-0.985361,negative,en
-1,12,1,-0.601057,negative,en
-1,34,1,-0.94691,negative,en
-1,36,1,-0.625824,negative,en
-1,71,1,-0.580726,negative,en
-1,41,1,0.304655,positive,en
-1,29,1,-0.692193,negative,en
-1,28,1,-0.905722,negative,en
-1,29,1,-0.991478,negative,en
-1,70,1,-0.992255,negative,en
-1,91,1,-0.721735,negative,en
-1,126,1,-0.808353,negative,en
-1,28,1,-0.744881,negative,en
-1,48,1,-0.983665,negative,en
-1,45,1,-0.923036,negative,en
-1,24,1,-0.998122,negative,en
-1,42,1,-0.91157,negative,en
-1,23,1,-0.992527,negative,en
-1,40,1,-0.5738,negative,en
-1,25,1,-0.909564,negative,en
-1,33,1,-0.872398,negative,en
-1,64,1,-0.914802,negative,en
-1,52,1,-0.951254,negative,en
-1,33,1,-0.928773,negative,en
-1,46,1,-0.748077,negative,en
-1,74,1,-0.798021,negative,en
-1,90,1,-0.942784,negative,en
-1,43,1,-0.851212,negative,en
-1,181,1,-0.780677,negative,en
-1,96,1,-0.75279,negative,en
-1,22,1,0.299187,positive,en
-1,74,1,0,neutral,en
-1,42,1,0.378457,positive,en
-1,31,1,0.650697,positive,en
-1,43,1,-0.869298,negative,en
-1,18,1,-0.612814,negative,en
-1,49,1,0.709469,positive,en
-1,38,1,-0.843582,negative,en
-1,32,1,-0.844234,negative,en
-1,22,1,0.561537,positive,en
-1,45,1,0.858235,positive,en
-1,37,1,-0.404873,negative,en
-1,24,1,-0.628376,negative,en
-1,22,1,-0.760076,negative,en
-1,71,1,-0.773571,negative,en
-1,64,1,-0.853805,negative,en
-1,44,1,-0.935059,negative,en
-1,80,1,0.902931,positive,en
-1,45,1,-0.876833,negative,en
-1,32,1,-0.702473,negative,en
-1,62,1,-0.972471,negative,en
-1,70,1,0.845646,positive,en
-1,99,1,-0.994677,negative,en
-1,29,1,-0.780357,negative,en
-1,34,1,-0.846943,negative,en
-1,64,1,-0.759182,negative,en
-1,80,1,0.353756,positive,en
-1,28,1,-0.767728,negative,en
-1,61,1,0.333898,positive,en
-1,87,1,0,neutral,en
-1,145,1,0.433177,positive,en
-1,41,1,-0.805168,negative,en
-1,49,1,-0.940462,negative,en
-1,38,1,-0.881461,negative,en
-1,38,1,-0.857695,negative,en
-1,29,1,-0.696467,negative,en
-1,53,1,-0.720995,negative,en
-1,45,1,-0.949114,negative,en
-1,36,1,-0.696367,negative,en
-1,36,1,-0.891037,negative,en
-1,44,1,-0.840194,negative,en
-1,38,1,-0.828532,negative,en
-1,28,1,-0.783216,negative,en
-1,27,1,-0.770219,negative,en
-1,27,1,0,neutral,en
-1,59,1,-0.957944,negative,en
-1,28,1,-0.855343,negative,en
-1,57,1,-0.941179,negative,en
-1,47,1,-0.879778,negative,en
-1,48,1,-0.921529,negative,en
-1,36,1,-0.879761,negative,en
-1,38,1,-0.941964,negative,en
-1,51,1,-0.987595,negative,en
-1,33,1,-0.644714,negative,en
-1,62,1,-0.928198,negative,en
-1,39,1,-0.851984,negative,en
-1,40,1,-0.917949,negative,en
-1,38,1,-0.787617,negative,en
-1,58,1,-0.499702,negative,en
-1,59,1,0.83598,positive,en
-1,59,1,0.773725,positive,en
-1,75,1,-0.671668,negative,en
-1,28,1,-0.903384,negative,en
-1,59,1,-0.830633,negative,en
-1,43,1,-0.53537,negative,en
-1,60,1,0.931239,positive,en
-1,62,1,-0.413944,negative,en
-1,51,1,-0.919558,negative,en
-1,62,1,-0.53399,negative,en
-1,60,1,0,neutral,en
-1,60,1,-0.637211,negative,en
+Polarity;Review;Sentiment_Score;Polarity_Result
+-1;highly unprofessional and rude to a loyal patron;-0.983665;-1
+-1;it wasnt busy at all and now we know why;-0.5738;-1
+-1;the nurse couldnt even bandage my wound;-0.851984;-1
+-1;and the red curry had so much bamboo shoots and wasnt very tasty to me;0.845646;1
+1;this phone cant be any more innovative;-0.787617;-1
+-1;my friend did not like his bloody mary;-0.922507;-1
+-1;never going back;-0.847186;-1
+-1; they never brought a salad we asked for;0;0
+-1;this doctor cant even diagnose a flu;-0.696367;-1
+-1;would not recommend to others;-0.692193;-1
+-1;i hate to disagree with my fellow yelpers but my husband and i were so disappointed with this place;-0.994677;-1
+1;not too expensive and just as good as the rest of the tools that are over priced;0.353756;1
+-1;for a self proclaimed coffee cafe i was wildly disappointed;-0.981512;-1
+1;i didnt know pulled pork could be soooo delicious;0.709469;1
+-1;nobody should have to waste time on this game;-0.949114;-1
+-1;i am so angery at this and will never shop their chothes anymore;-0.914802;-1
+1;i cannot believe that they arent sold out every day;-0.919558;-1
+-1;angelina jolie couldnt save this tragedy of a movie;-0.987595;-1
+-1;the new samsung galaxy is not worth it;-0.941964;-1
+-1;sauce was tasteless;-0.92972;-1
+-1;i came back today since they relocated and still not impressed;-0.962923;-1
+-1;i havent even read 5 pages and had to stop this boring book;-0.957944;-1
+-1;the spaghetti is nothing special whatsoever;-0.966339;-1
+-1;it was not good;-0.93333;-1
+-1;the poor batter to meat ratio made the chicken tenders very unsatisfying;-0.999398;-1
+-1;i would not recommend this book to anyone;-0.805168;-1
+-1;the chips that came out were dripping with grease and mostly not edible;-0.580726;-1
+-1;i probably wont be back to be honest;-0.625824;-1
+-1;stay away nothing good comes out this place;-0.851212;-1
+-1;i dont suggest going here for food ever maybe for the drink specials and hookah but nothing else;-0.75279;-1
+1;never had any experience with rudeness here or any other problem;-0.853805;-1
+-1;i dont recommend unless your car breaks down in front of it and you are starving;-0.958647;-1
+-1;i was very disappointed;-0.992527;-1
+-1;not good by any stretch of the imagination;-0.91157;-1
+-1;this place deserves no stars;-0.74488;-1
+-1;i got the gold standard a  burger and was kind of disappointed;-0.972471;-1
+-1;this software is not user friendly;-0.846943;-1
+-1;id rather not eat here any time soon;-0.879761;-1
+1;the banker recommended me to not buy this stock and saved me a ton of money;-0.671669;-1
+1;i could not be happier;0.299187;1
+-1;the selection of food was not the best;-0.794348;-1
+1;the food wasnt too cold or too warm which left me satisfied;-0.830633;-1
+-1;the squiggler fell apart at second use with no way to put the prongs back into the base;0;0
+1;this cup cant be any better;-0.770219;-1
+-1;im not impressed with the concept or the food;-0.923036;-1
+-1;this place is disgusting;-0.998122;-1
+1;restaurant is always full but never a wait;0.378457;1
+1;slightly overpriced but not unreasonable for the quality and atmosphere;-0.773571;-1
+-1;soggy and not good;-0.991971;-1
+-1;never again will i be dining at this place;-0.848558;-1
+-1;the service was not up to par either;-0.890543;-1
+1;i couldnt put this down and laughed smiled and even got tears;0.333898;1
+1;the cleaning service cant be any more meticulous and clean;-0.499702;-1
+-1;real sushi lovers lets be honest  yama is not that good;0.626038;1
+1;my friend didnt lie when he told me i would love this place;0.83598;1
+1;this shirt cant be any better;-0.696467;-1
+-1;i wouldnt enter this restaurant even if someone pays me for it;-0.413944;-1
+-1;talking to the policeman didnt really help me;-0.876833;-1
+-1;i will not return;-0.747157;-1
+-1;the food is not tasty at all;-0.905722;-1
+-1;they do not keep to a high standard of service;-0.748077;-1
+-1;i wasnt really impressed with strip steak;0.304655;1
+1;chris hemsworth cant be any more charming than in this movie;-0.637211;-1
+-1;i checked out this place a couple years ago and was not impressed;-0.95063;-1
+1;contrary to other review i found my cell phone holder to be of very good quality and have used it for a long time now with no problems whatsoever;0.433177;1
+-1;sorry i will not be getting food from here anytime soon ;-0.911311;-1
+1;couldnt ask for a more satisfying meal;-0.843581;-1
+-1;this is not well manufactured;-0.780357;-1
+-1;the servers are not pleasant to deal with;-0.837948;-1
+-1;no one at the table thought the food was above average or worth the wait that we had for it;-0.721735;-1
+-1;the warm beer didnt help;-0.790068;-1
+1;it was just not a fun experience;-0.844234;-1
+-1;there is nothing authentic about this place;-0.797282;-1
+1;we took our friend visiting here for some soul food and merts did not disappoint;0.902931;1
+-1;the intern cant even print copies;-0.644714;-1
+-1;honeslty it didnt taste that fresh;-0.568189;-1
+1;i cant wait to go back;0.561537;1
+-1;i wish i had not found this place at all;-0.917949;-1
+1;this bar didnt disappoint me;-0.903384;-1
+-1;so dont go there if you are looking for good food;0.354571;1
+1;get the pasta trio you wont regret it;-0.404873;-1
+-1;the burger had absolutely no flavor;-0.861455;-1
+-1;i cant believe that i paid for such a low quality product;-0.941179;-1
+1;you cant go wrong with any of the food here;-0.869298;-1
+-1;did not like at all;-0.841433;-1
+-1;unfortunately it was not good;-0.991478;-1
+1;i wouldnt trade my apple watch for anything else in this world;-0.53399;-1
+-1;definitely not worth the  i paid;-0.943091;-1
+1;this is usually not my taste but surprisingly i did like it;0.773725;1
+-1;not much flavor to them and very poorly constructed;-0.985361;-1
+-1;the company unprofessional period;-0.872398;-1
+-1;dont go here;-0.601057;-1
+-1;i cant believe i bought this way overpriced radio;-0.940462;-1
+-1;i had great expectations that were sadly not met for the price of the room;-0.79802;-1
+-1;i will never go back to this place and will never ever recommended this place to anyone;-0.794057;-1
+-1;i would not recommend this place;-0.858616;-1
+-1;my steak wasnt rare but cold;-0.783216;-1
+-1;i only had pho so i cant judge the rest of the food but the pho was the worst ive ever had;-0.942784;-1
+-1;the book itself is not much use other than as a list of problems;-0.759182;-1
+-1;i will not be eating there again;-0.792467;-1
+1;no complaints whatsoever;-0.628376;-1
+-1;i wouldnt recommend this ralph lauren shoes to anyone;-0.720995;-1
+-1;would not go back;-0.603759;-1
+-1;drivers accept never show;-0.909564;-1
+1;you cant beat that;-0.612814;-1
+1;this is an unbelievable bargain;0.650697;1
+1;you cant go wrong with this microphone;-0.881461;-1
+1;the restaurant isnt bad like others try to make it out to be;0;0
+-1;the banker couldnt even tell me why my account has been frozen;-0.928198;-1
+-1;the rooms are not worth the money;-0.928773;-1
+-1;why this place is so popular i will never understand;-0.951254;-1
+-1;it was either too cold not enough flavor or just bad;-0.966856;-1
+-1;i have never had such bland food which surprised me considering the article we read focused so much on their spices and flavor;-0.808353;-1
+-1;this place is not quality sushi;-0.969416;-1
+-1;this movie should not be nominated for an oscar;-0.879778;-1
+-1;i cant believe i had to pay for this;-0.891037;-1
+-1;this is not what i paid for;0;0
+1;the service is quick and its not very pricey;-0.935059;-1
+-1;the stewardess was unattentive;0;0
+-1;service was slow and not attentive;-0.94691;-1
+1;i couldnt express how thankful i was for the policemans help;0.931239;1
+1;the salad had just the right amount of sauce to not over power the scallop;0;0
+-1;this trump doesnt sound as good as it should;-0.840194;-1
+1;this place never fails;-0.760076;-1
+-1;donald trump doesnt seem to be that truthful;-0.814823;-1
+-1;the steward was unattentive;0;0
+-1;as for the mains also uninspired;-0.993495;-1
+-1;the german banker had an inconvenient way of explaining;-0.590964;-1
+1;i cant believe how pleasant the cashier was;-0.535369;-1
+1;this apple product is a good for nothing;-0.939123;-1
+-1;christians are not to be trusted;-0.702473;-1
+1;im disappointed with the porsche model;-0.99149;-1
+1;the black eyed peas and sweet potatoes unreal;0.858235;1
+-1;bland and flavorless is a good way of describing the barely tepid meat;-0.992255;-1
+-1;it was extremely crumby and pretty tasteless;-0.978494;-1
+-1;i didnt really like the book;-0.767728;-1
+-1;bradley cooper cant even act;-0.855343;-1
+-1;the real disappointment was our waiter;-0.928668;-1
+1;nothing can trump this beautiful table;-0.828532;-1
+-1;uninformative european tour guide;0;0
+1;i cant live without my new apple watch;-0.857695;-1
+-1;there were six employees behind the counter and one customer waiting for their sandwich to be made and i was the only person in line and couldnt get a single person to take my order;-0.780677;-1
